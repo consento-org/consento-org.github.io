@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://consento.org/blog</id>
+    <title>Consento Blog</title>
+    <updated>2021-01-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://consento.org/blog"/>
+    <subtitle>Consento Blog</subtitle>
+    <icon>https://consento.org/img/consento/cc-by-nc-nd/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[To start the year fresh, a fresh video on Consento]]></title>
+        <id>consento-introcution-video</id>
+        <link href="https://consento.org/blog/consento-introcution-video"/>
+        <updated>2021-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Consento will compete at the SxSW 2021 Startup Contest. Let's meet there!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to stay in control of our data?]]></title>
+        <id>how-to-stay-in-control-of-our-data</id>
+        <link href="https://consento.org/blog/how-to-stay-in-control-of-our-data"/>
+        <updated>2020-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[About the thinking behind Consento and how it is supporting the plan to stay in control of data we need to stay in control.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In consent we trust]]></title>
+        <id>in-consent-we-trust</id>
+        <link href="https://consento.org/blog/in-consent-we-trust"/>
+        <updated>2020-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The concept behind Consento - Human-Factor Authentication - requires trust. Consento aims at delivering a novel way to securely store confidential data encrypted without central cloud solution, and access them without depending on complex passwords. Instead, with Consento users can request the consents of peers they have decided to rely on. Such a new way to secure confidential data requires appropriate UX (user experience) &amp; UI (user interface) to guide users in handling data privacy. But before discussing about the right UX/UI, we need to discuss a bit about a fundamental object: trust.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the hard road: Mobile-first!]]></title>
+        <id>mobile-first</id>
+        <link href="https://consento.org/blog/mobile-first"/>
+        <updated>2020-04-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[About why we chose a mobile app as a start for Consento, what challenges we encountered and what we learned on our way−so you don't need to.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consento receives funding by NGI!]]></title>
+        <id>funding-ngi-2019</id>
+        <link href="https://consento.org/blog/funding-ngi-2019"/>
+        <updated>2019-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The goal of Consento is to provide a free and open technology for humans. Neither free nor open rimes well with profit though, and our initial team has been thinking about how to make Consento viable from the start. It was clear to us that we will progress slowly on our own. Through our contacts in the DAT community, we learned about various funding opportunities and eventually found the perfect match with NGI's new LEDGER program.]]></summary>
+    </entry>
+</feed>

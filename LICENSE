@@ -1,0 +1,57 @@
+Licenses and authors for the images:
+
+### Authors
+
+- [Consento](https://consento.org/team):                    `static/img/consento/**`
+- ["daniel" Daniel Kastl](https://consento.org/team/daniel):         `static/img/daniel/**`
+- ["marc" Marc Chataigner](https://consento.org/team/marc):        `static/img/marc/**`
+- ["martin" Martin Heidegger](https://consento.org/team/martin):     `static/img/martin/**`
+- ["nathaniel" Nathaniel Nasarow](https://consento.org/team/nathaniel): `static/img/nathaniel/**`
+- ["tanja" Tanja Rohlfs](https://consento.org/team/tanja):          `static/img/tanja/**`
+- ["yuko" Yuko Fujisawa](https://consento.org/team/yuko):          `static/img/yuko/**`
+
+### Licenses
+
+- [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode): `static/img/*/cc0/**`
+- [CC-BY](https://creativecommons.org/licenses/by/4.0/):              `static/img/*/cc-by/**`
+- [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/):        `static/img/*/cc-by-sa/**`
+- [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/):        `static/img/*/cc-by-nc/**`
+- [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/):  `static/img/*/cc-by-nc-sa/**`
+- [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/):  `static/img/*/cc-by-nc-nd/**`
+- [Unsplash](https://unsplash.com/license):                           `static/img/external/unsplash/**`
+- [Pixabay](https://pixabay.com/service/license):                     `static/img/external/pixabay/**`
+
+Images that don't match a pattern are **unlicensed**. Those images/pictures we assume as [fair-use](https://en.wikipedia.org/wiki/Fair_use). If you are the copyright holder of one of these images and are in disagreement, please 
+[let us know](https://github.com/consento-org/consento-org.github.io/issues/new) so we can remove them.
+
+Images for the licenses `Pixabay` and `Unsplash` contain the users name before the first "_".
+
+---
+
+The license for pages/content can be found at the end of each page.
+
+---
+
+The source code (html/js/css/md) is licensed under the MIT license:
+
+The MIT License (MIT)
+
+Copyright (c) 2021 Martin Heidegger
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

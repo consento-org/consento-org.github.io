@@ -69,7 +69,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/consento-org/consento-org.github.io/edit/master/blog/',
+            'https://github.com/consento-org/consento-org.github.io/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

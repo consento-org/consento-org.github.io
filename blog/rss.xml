@@ -4,9 +4,16 @@
         <title>Consento Blog</title>
         <link>https://consento.org/blog</link>
         <description>Consento Blog</description>
-        <lastBuildDate>Fri, 08 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How Consento saved your crypto wallet and your life of a billionaire]]></title>
+            <link>https://consento.org/blog/consento-secure-your-crypto-wallet</link>
+            <guid>consento-secure-your-crypto-wallet</guid>
+            <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You are a millionaire! If only you hadn't lost your crypto wallet key...]]></description>
+        </item>
         <item>
             <title><![CDATA[To start the year fresh, a fresh video on Consento]]></title>
             <link>https://consento.org/blog/consento-introcution-video</link>

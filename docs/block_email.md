@@ -25,20 +25,15 @@ email verification providers.
 
 ![Email address "jane@consento.org" with a star on the left](/img/consento/cc-by-nc-sa/verified_email.png)
 
-Let's assume `email.consento.org` is hosting one instance of our linux-based suite. It provides API endpoints
-like `https://email.consento.org/verify` that will send an email 
+Let's assume `email.consento.org` is hosting one instance of our linux-based suite. It provides an API endpoint
+like `https://email.consento.org/verify?email=jane@consento.org` that will 
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+1. Send an email to `jane@consento.org`
+2. Expect the receipient to execute an action specified in the email (click a link)
+3. The email is marked as verified 
 
 ## Federated System for Email
 
 ## Benefits for 
-
 
 <License author="martin" license="CC-BY" year="2021"  />

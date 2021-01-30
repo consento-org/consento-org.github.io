@@ -14,6 +14,6 @@ individually also useful for other purposes.
 - [Address Books](./block_book) [State: concept]
 - [Federated Email Verification](./block_email) [State: concept]
 - [Evented Decentralized Database](./block_db) [State: early-phase]
-- [Decentralized Web Resource Loader](./block_dcurl) [State: early-phase]
+- [Decentralized Web URL library](./block_dcurl) [State: early-phase]
 
 <License author="martin" license="CC-BY" year="2021"  />

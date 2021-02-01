@@ -56,6 +56,7 @@ To keep your access under control, Consento makes sure the partial keys are take
   <img src="/img/tanja/cc-by-nc-sa/in-control/controlling-identity.png" style={{ float: 'left', width: '30%' }} />
   <figcaption><strong>Your personal multi-factor authentication hub</strong> - The MFA system is built with the devices you chose and only those.</figcaption>
 </figure>
+<br/>
 
 --- 
 
@@ -63,6 +64,7 @@ To keep your access under control, Consento makes sure the partial keys are take
   <img src="/img/tanja/cc-by-nc-sa/in-control/free-for-all.png" style={{ float: 'left', width: '30%' }} />
   <figcaption><strong>Automated management of your secrets</strong> - The Consento system is built to ensure a long-lasting management of your precious accesses.</figcaption>
 </figure>
+<br/>
 
 --- 
 

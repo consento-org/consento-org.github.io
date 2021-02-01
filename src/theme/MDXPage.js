@@ -9,6 +9,7 @@ import Layout from '@theme/Layout';
 import { MDXProvider } from '@mdx-js/react';
 import MDXComponents from '@theme/MDXComponents';
 import TOC from '@theme/TOC';
+import { Section, License } from './consento';
 
 function MDXPage(props) {
   const {
@@ -38,11 +39,17 @@ function MDXPage(props) {
                     ? <img src={frontMatter.image} />
                     : <></>
                 }
+                {
+                  frontMatter.section
+                    ? <Section id={frontMatter.section} />
+                    : <></>
+                }
                 <div className="container">
                   <h1>{title}</h1>
                   <MDXProvider components={MDXComponents}>
                     <MDXPageContent />
                   </MDXProvider>
+                  <FrontMatterLicense {...frontMatter} />
                 </div>
               </div>
               {!hideTableOfContents && MDXPageContent.toc && <div className="col col--2">
@@ -53,6 +60,13 @@ function MDXPage(props) {
         </div>
       </main>
     </Layout>;
+}
+
+function FrontMatterLicense ({ license, author, year }) {
+  if (!license && !author && !year) {
+    return <></>
+  }
+  return <License license={license} author={author} year={year} />
 }
 
 export default MDXPage;

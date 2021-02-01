@@ -622,3 +622,29 @@ hr {
   top: 0;
   left: 0;
 }
+.consento_section {
+  max-width: var(--ifm-container-width);
+  margin: 0 var(--ifm-spacing-horizontal);
+  margin-bottom: 3em;
+  padding: 1em;
+  background-color: #efefef;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  color: #555;
+  font-size: 1em;
+}
+.consento_section h2 {
+  font-size: 1em;
+  display: inline;
+  font-family: var(--ifm-font-family-base);
+  color: #555;
+  font-weight: 600;
+  margin: 0;
+}
+.consento_section h2::after {
+  content: ' — '
+}
+.consento_section p {
+  margin-bottom: 0;
+  display: inline;
+}

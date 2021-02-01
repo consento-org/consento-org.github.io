@@ -1,5 +1,7 @@
 import React from 'react'
 import imageLicenses from './license.json'
+import { MDXProvider } from '@mdx-js/react'
+import MDXComponents from '@theme/MDXComponents'
 
 const { licenses: licenseLinks } = imageLicenses
 
@@ -80,4 +82,27 @@ export function Image ({ src, alt, caption, license }) {
     }
     <figcaption>{caption}</figcaption>
   </figure>
+}
+
+const sections = {
+  blocks: {
+    title: `Building Blocks`,
+    overview: `
+This document is part of the <a href="/blocks">Building Blocks</a> of Consento.
+Building blocks are encapsulated systems that we need for Consento but that can
+also function on their own and help the entire ecosystem.
+`
+  }
+}
+
+export function Section ({ id }) {
+  const section = sections[id]
+  if (!section) {
+    return <></>
+  }
+  const { title, overview } = section
+  return <section className={`consento_section consento_section__${id}`}>
+    <h2>{title}</h2>
+    <p dangerouslySetInnerHTML={{ __html: overview}} />
+  </section>
 }

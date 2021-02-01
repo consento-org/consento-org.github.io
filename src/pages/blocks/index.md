@@ -9,10 +9,10 @@ During the development of Consento and trying to figure out how to deal with a d
 online we identified a set of necessary and possibly unsolved building blocks needed that can be
 individually also useful for other projects focussed on decentralized technology.
 
-- [Timestamp Synchronization](blocks/time) [State: done]
-- [Decentralized Groups](blocks/group) [State: active-development]
-- [Private Information Lookup & Filter](blocks/bit) [State: in-progress]
-- [Decentralized Notification System](blocks/notification) [State: concept-v2]
-- [Address Books](blocks/book) [State: concept]
-- [Federated Email Verification](blocks/email) [State: concept]
-- [Decentralized Resource Interface](blocks/dcurl) [State: concept]
+- [Timestamp Synchronization](time) [State: done]
+- [Decentralized Groups](group) [State: active-development]
+- [Private Information Lookup & Filter](bit) [State: in-progress]
+- [Decentralized Notification System](notification) [State: concept-v2]
+- [Address Books](book) [State: concept]
+- [Federated Email Verification](email) [State: concept]
+- [Decentralized Resource Interface](dcurl) [State: concept]

@@ -1,5 +1,5 @@
 ---
-slug: consento-secure-your-crypto-wallet
+slug: consento-brings-data-security-to-remote-workplace-management
 title: How Consento can bring data security in your remote workplace management
 author: Marc Chataigner
 author_url: /team/marc
@@ -53,7 +53,7 @@ With Consento app, access to confidential data and company services is secured w
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
   <img src="/img/tanja/cc-by-nc-sa/in-control/human-centric.png" style={{ float: 'left', width: '30%' }} />
-  <figcaption><strong>A multi-factor authentication for humans</strong> - Consento system is built passwordless and peer-to-peer, to make everyone aware of of their role in colloboratively controlling data integrity and confidential accesses.</figcaption>
+  <figcaption><strong>A multi-factor authentication for humans</strong> - Consento system is built passwordless and peer-to-peer, to make everyone aware of their role in colloboratively controlling data integrity and confidential accesses.</figcaption>
 </figure>
 <br/>
 

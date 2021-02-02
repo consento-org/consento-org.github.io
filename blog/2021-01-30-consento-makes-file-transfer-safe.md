@@ -6,7 +6,7 @@ author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---
 
-import { License } from '../src/theme/consento'
+import { License, Image } from '../src/theme/consento'
 
 ## Sharing data with independent contractors leads many of our confidential data to be out of hand.
 

@@ -6,7 +6,7 @@ author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---
 
-import { License } from '../src/theme/consento'
+import { License, Image } from '../src/theme/consento'
 
 ## You are a crypto-millionaire! If only you hadn't lost your crypto wallet key...
 

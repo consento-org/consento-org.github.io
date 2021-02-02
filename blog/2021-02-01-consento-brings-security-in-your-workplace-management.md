@@ -6,7 +6,7 @@ author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---
 
-import { License } from '../src/theme/consento'
+import { License, Image } from '../src/theme/consento'
 
 ## Remote workers bear a great stress in collectively handling the privacy of company data.
 

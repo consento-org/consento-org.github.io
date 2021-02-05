@@ -4,9 +4,30 @@
         <title>Consento Blog</title>
         <link>https://consento.org/blog</link>
         <description>Consento Blog</description>
-        <lastBuildDate>Fri, 08 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How Consento can bring data security in your remote workplace management]]></title>
+            <link>https://consento.org/blog/consento-brings-data-security-to-remote-workplace-management</link>
+            <guid>consento-brings-data-security-to-remote-workplace-management</guid>
+            <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Remote workers bear a great stress in collectively handling the privacy of company data.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to manage contractors' responsibility in confidential file sharing with Consento]]></title>
+            <link>https://consento.org/blog/consento-makes-file-transfer-safe</link>
+            <guid>consento-makes-file-transfer-safe</guid>
+            <pubDate>Sat, 30 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sharing data with independent contractors leads many of our confidential data to be out of hand.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Consento can save your life of a crypto-millionaire]]></title>
+            <link>https://consento.org/blog/consento-secure-your-crypto-wallet</link>
+            <guid>consento-secure-your-crypto-wallet</guid>
+            <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You are a crypto-millionaire! If only you hadn't lost your crypto wallet key...]]></description>
+        </item>
         <item>
             <title><![CDATA[To start the year fresh, a fresh video on Consento]]></title>
             <link>https://consento.org/blog/consento-introcution-video</link>

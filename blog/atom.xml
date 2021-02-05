@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://consento.org/blog</id>
     <title>Consento Blog</title>
-    <updated>2021-01-08T00:00:00.000Z</updated>
+    <updated>2021-02-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://consento.org/blog"/>
     <subtitle>Consento Blog</subtitle>
     <icon>https://consento.org/img/consento/cc-by-nc-nd/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Consento can bring data security in your remote workplace management]]></title>
+        <id>consento-brings-data-security-to-remote-workplace-management</id>
+        <link href="https://consento.org/blog/consento-brings-data-security-to-remote-workplace-management"/>
+        <updated>2021-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Remote workers bear a great stress in collectively handling the privacy of company data.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to manage contractors' responsibility in confidential file sharing with Consento]]></title>
+        <id>consento-makes-file-transfer-safe</id>
+        <link href="https://consento.org/blog/consento-makes-file-transfer-safe"/>
+        <updated>2021-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sharing data with independent contractors leads many of our confidential data to be out of hand.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Consento can save your life of a crypto-millionaire]]></title>
+        <id>consento-secure-your-crypto-wallet</id>
+        <link href="https://consento.org/blog/consento-secure-your-crypto-wallet"/>
+        <updated>2021-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You are a crypto-millionaire! If only you hadn't lost your crypto wallet key...]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To start the year fresh, a fresh video on Consento]]></title>
         <id>consento-introcution-video</id>

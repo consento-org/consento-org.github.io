@@ -13,6 +13,13 @@ import { License, Image } from '../src/theme/consento'
 __Having to hold the custody of other's digital identities is timely, if not costly in human error.__<br/>
 Most of companies relie on a netwrok of external contractors and suppliers, for translation work, transcription, accounting, legal work, etc. Building a trustworthy partnership often starts with verified credentials, or asking for referals, in order to discard fraudulent candidates. Eventually, these verified CVs and confidential data about contractors become too valuable to be losely shared over emails or cloud services. The agency's reputation depends on it.
 
+--- 
+
+ > Translation Scammers - "As a whole, CV theft and translator impersonation are some of the most widespread scams. In 2017 alone, Translation Scammer exposed 5,055 new scammer IDs. That’s 36 new scammer IDs per month."
+[(Word Connection Japanlization ; 2020:26)](https://word-connection.fr/translation-scammers-the-dark-side-of-the-translation-industry/)
+
+--- 
+
 __The contractor should not ruin the agency's privacy efforts by using online tools either.__<br/>
 How often do freelance translators or transcriptors end up using online tools by conveniency? In doing so, they put the agency's efforts to keep data confidential at risk. Onboarding freelancers to develop a simple security and privacy hygiene ends up being costly. In the end, the agency resolves to share the information and guidances and just hopes for the best.
 

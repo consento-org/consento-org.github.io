@@ -8,7 +8,7 @@ author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 
 import { License, Image } from '../src/theme/consento'
 
-## Being the cutsodian for contractors' CV or identities adds to the burden of coordinating agencies.
+## Being the custodian for contractors' CV or identities adds to the burden of coordinating agencies.
 
 __Having to hold the custody of other's digital identities is timely, if not costly in human error.__<br/>
 Most of companies relie on a netwrok of external contractors and suppliers, for translation work, transcription, accounting, legal work, etc. Building a trustworthy partnership often starts with verified credentials, or asking for referals, in order to discard fraudulent candidates. Eventually, these verified CVs and confidential data about contractors become too valuable to be losely shared over emails or cloud services. The agency's reputation depends on it.

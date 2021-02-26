@@ -4,9 +4,16 @@
         <title>Consento Blog</title>
         <link>https://consento.org/blog</link>
         <description>Consento Blog</description>
-        <lastBuildDate>Mon, 01 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Background of GDPR and European Values on Privacy', a Consento webinar at ProjectDS]]></title>
+            <link>https://consento.org/blog/webinar-GDPR-european-value-privacy-Yamato-Logistics-Japan</link>
+            <guid>webinar-GDPR-european-value-privacy-Yamato-Logistics-Japan</guid>
+            <pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+        </item>
         <item>
             <title><![CDATA[How Consento can bring data security in your remote workplace management]]></title>
             <link>https://consento.org/blog/consento-brings-data-security-to-remote-workplace-management</link>

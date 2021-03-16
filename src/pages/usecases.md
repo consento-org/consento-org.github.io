@@ -6,6 +6,22 @@ import { Image, License } from '../theme/consento'
 > **TLDR;** Consento is developing fast. We keep on expanding use cases for which handling data privacy collectively matters a great deal.
 
 
+## Usecase #4 - Medical data custodians bear the risks without having access to all data.
+
+<figure className="kg-card kg-image-card kg-card-hascaption">
+  <img src="/img/external/unsplash/Owen-Beard-DK8jXx1B-1c-unsplash-CUT.jpg" style={{ float: 'left', width: '100%' }} alt="OK sign shot in a X-ray machine. (photo credit @owenbeard)" />
+</figure>
+
+Each and every medical expert and organisation holds dear to the patient data they host. And they have to. But each part of the patient data portfolio remains to be enriched with the rest of the information. With services increasingly requiring access to patient's medical data, the responsibility over medical data custody is scattered. 
+
+<br/>
+
+Read more on [how Consento can help](/blog/medical-data-custody-for-all).
+
+<br/>
+
+---
+
 ## Usecase #3 - Remote workers bear the stress of collectively handling the company secrets.
 
 <figure className="kg-card kg-image-card kg-card-hascaption">

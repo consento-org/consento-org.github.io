@@ -4,9 +4,23 @@
         <title>Consento Blog</title>
         <link>https://consento.org/blog</link>
         <description>Consento Blog</description>
-        <lastBuildDate>Sun, 21 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to handle patients' medical data in a more secure manner by distributing responsibilities.]]></title>
+            <link>https://consento.org/blog/medical-data-custody-for-all</link>
+            <guid>medical-data-custody-for-all</guid>
+            <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Joining the TETRA bootcamp on 'scaling up']]></title>
+            <link>https://consento.org/blog/TETRA-bootcamp-scale-up-2021</link>
+            <guid>TETRA-bootcamp-scale-up-2021</guid>
+            <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+        </item>
         <item>
             <title><![CDATA['Background of GDPR and European Values on Privacy', a Consento webinar at ProjectDS]]></title>
             <link>https://consento.org/blog/webinar-GDPR-european-value-privacy-Yamato-Logistics-Japan</link>

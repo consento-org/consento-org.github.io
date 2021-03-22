@@ -21,7 +21,7 @@ import { License, Image } from '../src/theme/consento'
 
 ## Personal medical information are the cornerstone of relevant eHealth, and yet remain unmanaged.
 
-### Who gets to host - and provide access to - patients medical data? 
+### Who gets to host - and provide remote access to - patients medical data? 
 
 Each and every medical expert and organisation holds dear to the patient data they host. And they have to. But each part of the patient data portfolio remains to be enriched with the rest of the information. With services increasingly requiring access to patient's medical data, the responsibility over medical data custody is scattered. 
 

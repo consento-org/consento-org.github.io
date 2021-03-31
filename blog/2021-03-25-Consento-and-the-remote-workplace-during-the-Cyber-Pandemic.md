@@ -14,7 +14,7 @@ As a simple metric, the FBI has seen a [fourfold increase in cybersecurity compl
 
 The world post-2020 isn't quite the same. While the digital transformation is accelerating, executives still need to figure out ways to secure their digital assets and teams.
 
-## 2021 PwC survey on CEOs says, "remote working makes cybersecurity a top worry."
+## 2021 PwC survey on CEOs says: "remote working makes cybersecurity a top worry."
 
 The PwC underlines that focusing security efforts on risk dashboards, surveillance and technical initiatives remains tempting. CEO and CISO know how to account for those investments.
 

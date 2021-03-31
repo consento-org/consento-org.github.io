@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://consento.org/blog</id>
     <title>Consento Blog</title>
-    <updated>2021-03-17T00:00:00.000Z</updated>
+    <updated>2021-03-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://consento.org/blog"/>
     <subtitle>Consento Blog</subtitle>
     <icon>https://consento.org/img/consento/cc-by-nc-nd/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to steward security in your remote workplace. #CyberPandemic.]]></title>
+        <id>Consento-and-the-remote-workplace-during-the-Cyber-Pandemic</id>
+        <link href="https://consento.org/blog/Consento-and-the-remote-workplace-during-the-Cyber-Pandemic"/>
+        <updated>2021-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to handle patients' medical data in a more secure manner by distributing responsibilities.]]></title>
         <id>medical-data-custody-for-all</id>

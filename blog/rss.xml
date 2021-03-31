@@ -4,9 +4,16 @@
         <title>Consento Blog</title>
         <link>https://consento.org/blog</link>
         <description>Consento Blog</description>
-        <lastBuildDate>Wed, 17 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to steward security in your remote workplace. #CyberPandemic.]]></title>
+            <link>https://consento.org/blog/Consento-and-the-remote-workplace-during-the-Cyber-Pandemic</link>
+            <guid>Consento-and-the-remote-workplace-during-the-Cyber-Pandemic</guid>
+            <pubDate>Thu, 25 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+        </item>
         <item>
             <title><![CDATA[How to handle patients' medical data in a more secure manner by distributing responsibilities.]]></title>
             <link>https://consento.org/blog/medical-data-custody-for-all</link>

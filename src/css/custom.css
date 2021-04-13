@@ -351,6 +351,10 @@ h1, h2, h3, h4, h5 {
   display: flex;
   flex-wrap: wrap;
 }
+.landing__usecase ul, .landing__values ul {
+  display: flex;
+  flex-wrap: wrap;
+}
 .landing__vimeo {
   width: 100% !important;
   padding: 56.25% 0 0 0;
@@ -362,6 +366,9 @@ h1, h2, h3, h4, h5 {
 }
 .landing__values li {
   width: 50%;
+}
+.landing__usecase li {
+  width: 25%
 }
 .button__full {
   background-color: var(--ifm-color-secondary);
@@ -421,6 +428,31 @@ hr {
   font-size: 1.8em;
 }
 .landing__how__list img {
+  width: 75%;
+}
+.landing__usecase__list,
+.landing__values__list {
+  display: flex;
+  justify-content: center;
+}
+.landing__usecase__list li,
+.landing__values__list li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.landing__usecase__list p,
+.landing__values__list p {
+  padding: 0 1em;
+  text-align: center;
+}
+.landing__usecase__list li {
+  width: 25%;
+}
+.landing__usecase__list h3 {
+  font-size: 1.8em;
+}
+.landing__usecase__list img {
   width: 75%;
 }
 .landing__values__list li {

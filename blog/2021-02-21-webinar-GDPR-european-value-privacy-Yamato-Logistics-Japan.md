@@ -2,6 +2,7 @@
 slug: webinar-GDPR-european-value-privacy-Yamato-Logistics-Japan
 title: "'Background of GDPR and European Values on Privacy', a Consento webinar at ProjectDS"
 author: Yuko Fujisawa
+author_title: CMO
 author_url: /team/yuko
 author_image_url: /img/tanja/cc-by-nc-nd/team/Yuko.svg
 ---
@@ -16,9 +17,10 @@ import { License, Image } from '../src/theme/consento'
   alt="European flag displayed on a tough skin, with a missing star, signifying Brexit. (Image contributed by freestocks.org -- CC0 1.0 Universal (CC0 1.0) Public Domain Dedication)"
 />
 
----
+
 
 GDPR is a regulation set in Europe, mainly to protect personal data by setting out the rules on how to deal with/transfer data. However, the tricky part is that this regulation goes beyond the border if you deal with personal data linked to users residing within EEA.
+<!--truncate-->
  Comment
 
 Japan is also one of the biggest countries which has numerous business activities between Europe, and we see an increasing awareness of GDPR in Japan. On 27th February, we had an opportunity to give a webinar at Project DS run by Mr. Hiroshi Sonoda from Yamato Logistics, and we introduced the narrative of GDPR in the European context, and how Consento as a startup supported by NGI Ledger program is trying to offer the solution.

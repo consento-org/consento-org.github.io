@@ -2,16 +2,17 @@
 slug: consento-brings-data-security-to-remote-workplace-management
 title: How Consento can bring data security in your remote workplace management
 author: Marc Chataigner
+author_title: UX Designer
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---
 
 import { License, Image } from '../src/theme/consento'
 
-## Remote workers bear a great stress in collectively handling the privacy of company data.
+Remote workers bear a great stress in collectively handling the privacy of company data. For many of us, remote working is here to stay.
 
-__For many of us, remote working is here to stay__<br/>
 Beyond the inconveniency of mixing up personal and professional spheres 24/7, remote working brings along another source of stress for remote workers, and to those in charge of maintaining the company data privacy. Now that devices are connected and used outside the company network, the risk of mishandling passwords or using unsecure networks has become higher than ever. 
+<!--truncate-->
 
 --- 
 

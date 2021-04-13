@@ -21,6 +21,7 @@ import { License, Image } from '../src/theme/consento'
 ---
 
 Following up in the Next Generation Internet (NGI) series, the Consento team is delighted to be invited at the <a href="https://www.f6s.com/ngitetrascale-upbootcampmarch2021/about#!">TETRA Bootcamp 'Scale Up'</a>. NGI is dedicated to the emergence of a more resilient, trustworthy and sustainable Internet.
+<!--truncate-->
 
 ### Aiming for mindful growth
 

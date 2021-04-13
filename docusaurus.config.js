@@ -19,7 +19,25 @@ module.exports = {
         {to: 'about', label: 'About', position: 'right'},
         {to: 'docs/overview', label: 'Documentation', position: 'right'},
         {to: 'usecases', label: 'Use cases', position: 'right'},
-        {to: 'team', label: 'Team', position: 'right'},
+        {
+          label: 'Community',
+          position: 'right',
+          items: [
+            {
+              label: 'Team',
+              href: 'team',
+            },
+            {
+              label: 'Supporters',
+              href: 'supporters',
+            },
+            {
+              label: 'Github',
+              href: 'https://github.com/consento-org/',
+            },
+          
+          ],
+        },
         {to: 'blog', label: 'Blog', position: 'right'},
         {to: 'download', label: 'Download', position: 'right', className: 'navbar__button'}
       ]

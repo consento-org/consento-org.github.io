@@ -18,7 +18,7 @@ function Home() {
         <header className="landing__hero">
           <div className="landing__hero__left">
             <h1 className="landing__hero__title">{siteConfig.title}</h1>
-            <p className="landing__hero__subtitle"><span>Data privacy</span> <span>for humans,</span> <span>by humans.</span></p>
+            <p className="landing__hero__subtitle"><span>Data privacy for humans,</span> <span>by humans.</span></p>
             <p className="landing__hero__text">{description}</p>
             <a className="button__full" href="/usecases">Discover our use cases</a>
           </div>
@@ -26,7 +26,38 @@ function Home() {
             <img src={useBaseUrl('img/tanja/cc-by-nc-sa/illustrations/privacy-by-design.svg')} />
           </div>
         </header>
+      
         <main className="landing">
+        <section className="landing__values">
+              <h2>Our values</h2>
+              <ul className="landing__values__list">
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_lock.svg')} />
+                  <h3>Privacy by Design</h3>
+                  <p>Consento provides 100% privacy.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_empowerment.svg')} />
+                  <h3>Empowerment</h3>
+                  <p>Consento makes you keep control over our data.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_human centric.svg')} />
+                  <h3>Human centric</h3>
+                  <p>Consento builds on trusted human relationship.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_transparency.svg')} />
+                  <h3>Transparency</h3>
+                  <p>Consento is 100% FOSS.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_diversity.svg')} />
+                  <h3>Diversity</h3>
+                  <p>Consento empowers small businesses.</p>
+                </li>
+              </ul>
+            </section>
           <section className="landing__video">
             <div className="landing__vimeo">
               <iframe
@@ -169,58 +200,9 @@ function Home() {
                 </li>
               </ul>
             </section>
-            <section className="landing__coownership">
-              <div className="landing__image">
-                <img src={useBaseUrl('img/tanja/cc-by-nc-sa/illustrations/use-case-travel.svg')} />
-              </div>
-              <div className="landing__text landing__text__right">
-                <h2>Co-ownership of confidential data.</h2>
-                <p>When you’re far from home, Consento enables you to keep all your travel documents backuped and encrypted. No one can access these documents without combining the 3 parts of the key. No password required.</p>
-                <p>Just paired devices.</p>
-              </div>
-            </section>
-            <section className="landing__dataintegrity">
-              <div className="landing__text landing__text__left">
-                <h2>Data integrity across organizations.</h2>
-                <p>When you are asked to take care of confidential of your client, Consento enables you to backup encrypted on paired devices, without the need to share the password via email, nor rely on central cloud services.</p>
-                <p>Consento is an access control technology designed to quickly integrate in organizations and employees’ liability systems.</p>
-                <p>Unlike competitors building on centralized passwordless systems, Consento protocol remains distributed, grating end-users the full ownership of their data and secrets. Which also means no maintenance costs for Consento, lowering the cost per user for corporate clients.</p>
-                <p>Just shared responsibility.</p>
-              </div>
-              <div className="landing__image">
-                <img src={useBaseUrl('img/tanja/cc-by-nc-sa/illustrations/use-case-client-data.svg')} />
-              </div>
-            </section>
-            <section className="landing__values">
-              <h2>Our values</h2>
-              <ul className="landing__values__list">
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_lock.svg')} />
-                  <h3>Privacy by Design</h3>
-                  <p>Consento provides 100% privacy.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_empowerment.svg')} />
-                  <h3>Empowerment</h3>
-                  <p>Consento makes you keep control over our data.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_human centric.svg')} />
-                  <h3>Human centric</h3>
-                  <p>Consento builds on trusted human relationship.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_transparency.svg')} />
-                  <h3>Transparency</h3>
-                  <p>Consento is 100% FOSS.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_diversity.svg')} />
-                  <h3>Diversity</h3>
-                  <p>Consento empowers small businesses.</p>
-                </li>
-              </ul>
-            </section>
+        
+          
+            
             <section className="landing__roadmap">
               <h2>Consento roadmap</h2>
               <div className="landing__image landing__image__full">

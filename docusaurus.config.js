@@ -17,9 +17,9 @@ module.exports = {
       },
       items: [
         {to: 'about', label: 'About', position: 'right'},
+        {to: 'docs/overview', label: 'Documentation', position: 'right'},
         {to: 'usecases', label: 'Use cases', position: 'right'},
-        {to: 'team', label: 'Team', position: 'right'},
-        {to: 'supporters', label: 'Supporters', position: 'right'},
+        {to: 'community', label: 'Team', position: 'right'},
         {to: 'blog', label: 'Blog', position: 'right'},
         {to: 'download', label: 'Download', position: 'right', className: 'navbar__button'}
       ]
@@ -66,15 +66,22 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/consento-org/consento-org.github.io/edit/main/',
         },
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+       
         },
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+        
       },
     ],
   ],

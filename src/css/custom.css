@@ -680,3 +680,28 @@ hr {
   margin-bottom: 0;
   display: inline;
 }
+
+.pagination-nav__link {
+  border: 0px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-pagination-nav-border-radius);
+  flex-grow: 1;
+  line-height: var(--ifm-heading-line-height);
+  padding: var(--ifm-global-spacing);
+  transition: border-color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+}
+
+.pagination-nav__label {
+  font-size: var(--ifm-h4-font-size);
+  font-weight: 500;
+  word-break: break-word;
+}
+
+.pagination-nav__label:hover {
+  text-decoration: underline;
+}
+
+.table-of-contents__link:hover,
+    .table-of-contents__link:hover code{
+      color: var(--ifm-color-primary);
+      text-decoration: underline;
+    }

@@ -8,12 +8,20 @@ module.exports = {
     {
       type: 'category',
       label: 'Consento Core',
-      items: ['vocabulary'],
+      items: ['passwordless', 'sharedaccess', 'cloudfree', 'shamir'],
     },
     {
       type: 'category',
       label: 'Building Blocks',
       items: ['time','bit', 'book', 'dcurl', 'email', 'group', 'notification'],
+    },
+    {
+      type: 'doc',
+      id: 'vocabulary'
+    },
+    {
+      type: 'doc',
+      id: 'faq'
     },
   ],
 };

@@ -3,6 +3,7 @@ slug: how-to-stay-in-control-of-our-data
 title: How to stay in control of our data?
 image: /img/external/unsplash/swimstaralex_KgLtFCgfC28_cut.jpg
 author: Tanja Rohlfs
+author_title: UI / UX Designer
 author_url: /team/tanja
 author_image_url: /img/tanja/cc-by-nc-nd/team/Tanja.svg
 ---
@@ -11,6 +12,7 @@ import { License } from '../src/theme/consento'
 _About the thinking behind Consento and how it is supporting the plan to stay in control of data we need to stay in control._
 
 Giving up responsibility is comfortable. We know this because giving up the responsibility of making good backups, structuring our data and publishing articles responsibly is something we gladly hand off to online platforms.
+<!--truncate-->
 
 There are many common "best practices" how to minimize the exploitation of your data by big companies: Have multiple e-Mail addresses, use a password manager, don't share too much on social media etc. But this feels like a drop in the ocean. You still need to accept the rules of the system and hope not to get caught.
 

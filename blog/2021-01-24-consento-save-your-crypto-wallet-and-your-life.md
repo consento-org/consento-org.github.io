@@ -2,16 +2,17 @@
 slug: consento-secure-your-crypto-wallet
 title: How Consento can save your life of a crypto-millionaire
 author: Marc Chataigner
+author_title: UX Designer
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---
 
 import { License, Image } from '../src/theme/consento'
 
-## You are a crypto-millionaire! If only you hadn't lost your crypto wallet key...
+You are a crypto-millionaire! If only you hadn't lost your crypto wallet key...
 
-__Have you heard how many bitcoin users would have become millionaires, only if they hadn't lost theit password?__
-Bitcoins and distributed ledgers technologies opened amazing opportunities to secure transactions online. Although their technicality makes most end-users a bit chill. Moreover, they transform the end-user into the "single point of failure".
+Have you heard how many bitcoin users would have become millionaires, only if they hadn't lost theit password? Bitcoins and distributed ledgers technologies opened amazing opportunities to secure transactions online. Although their technicality makes most end-users a bit chill. Moreover, they transform the end-user into the "single point of failure".
+<!--truncate-->
 
 <Image
   src="/img/external/social-media/Tweet-from-@jowyang-on-bitcoin.png"

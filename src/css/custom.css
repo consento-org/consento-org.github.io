@@ -705,3 +705,9 @@ hr {
       color: var(--ifm-color-primary);
       text-decoration: underline;
     }
+
+    #__docusaurus {
+      min-height: 150% !important;
+      display: flex;
+      flex-direction: column;
+    }

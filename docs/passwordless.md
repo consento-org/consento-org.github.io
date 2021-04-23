@@ -3,7 +3,7 @@ title: Passwordless
 ---
  
 <figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/tanja/cc-by-nc-sa/icons/icon_lock.svg" style={{ display: 'inline', width: '150px', padding: '0 0 20px 0', }} />
+  <img src="/img/tanja/cc-by-nc-sa/icons/passwordless.svg" style={{ display: 'inline', width: '150px', padding: '0 0 20px 0', }} />
   <figcaption><strong>Eliminate one of the biggest security risks.</strong> 
 
  </figcaption>

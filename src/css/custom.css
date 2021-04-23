@@ -158,7 +158,7 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
-  --ifm-navbar-shadow: 0 0 10px rgba(0,0,0,0.56);
+  --ifm-navbar-shadow: 0 0 15px rgba(0,0,0,0.1);
   --c-landing-padding: 40px;
   --c-sidenote-color: rgb(120, 120, 120);
   --c-code-background: rgb(72, 77, 91);
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5 {
   justify-content: center;
   transition: box-shadow 1s;
   height: 95px;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: bold;
 }
 .navbar-top {
@@ -236,10 +236,10 @@ h1, h2, h3, h4, h5 {
 }
 .navbar__button {
   margin-left: 21px;
-  padding: 0.625em 25px;
+  padding: 0.6em 25px;
   color: var(--ifm-color-secondary);
   font-family: "Catamaran", sans-serif;
-  border-radius: 11px;
+  border-radius: 30px;
   border: 1px solid var(--ifm-color-secondary);
 }
 .navbar__button:hover {

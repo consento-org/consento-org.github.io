@@ -54,6 +54,7 @@ module.exports = {
           items: [
             { label: 'Team', to: 'team', },
             { label: 'About', to: 'about', },
+            { label: 'コンセントについて', to: '/consento-JP', },
             { label: 'Supporters', to: 'supporters', },
             { label: 'Use cases', to: 'usecases', },
             ],

@@ -46,7 +46,7 @@ module.exports = {
             { label: 'Github Repository', href: 'https://github.com/consento-org/', },
             { label: 'Keybase Chat', href: 'https://keybase.io/team/consento' },
             { label: 'Building Blocks', to: 'blocks' },
-            { label: 'White Paper (upcoming...)', to: '/' },
+            { label: 'Documentation', to: 'docs/overview' },
           ],
         },
         {

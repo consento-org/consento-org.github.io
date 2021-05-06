@@ -19,7 +19,7 @@ module.exports = {
         {to: 'about', label: 'About', position: 'right'},
         {to: 'docs/overview', label: 'Documentation', position: 'right'},
         {to: 'usecases', label: 'Use cases', position: 'right'},
-        {to: 'community', label: 'Team', position: 'right'},
+        {to: 'team', label: 'Team', position: 'right'},
         {to: 'blog', label: 'Blog', position: 'right'},
         {to: 'download', label: 'Download', position: 'right', className: 'navbar__button'}
       ]
@@ -45,7 +45,7 @@ module.exports = {
           items: [
             { label: 'Github Repository', href: 'https://github.com/consento-org/', },
             { label: 'Keybase Chat', href: 'https://keybase.io/team/consento' },
-            { label: 'Building Blocks', to: 'blocks' },
+            { label: 'Building Blocks', to: 'docs/time' },
             { label: 'Documentation', to: 'docs/overview' },
           ],
         },

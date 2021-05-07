@@ -94,7 +94,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           path: 'docs',
-          editUrl: 'https://github.com/consento-org/consento-org.github.io/tree/main',
+          editUrl: 'https://github.com/consento-org/consento-org.github.io/edit/main/',
           routeBasePath: 'docs',
           remarkPlugins: [],
           rehypePlugins: [],

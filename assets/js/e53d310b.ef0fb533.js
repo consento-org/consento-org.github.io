@@ -1,0 +1,1 @@
+(self.webpackChunkconsento_org_github_io=self.webpackChunkconsento_org_github_io||[]).push([[735],{8439:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"trust","name":"trust","count":1,"permalink":"/blog/tags/trust"}')}}]);

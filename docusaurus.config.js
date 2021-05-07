@@ -62,6 +62,19 @@ module.exports = {
       copyright: `© ${new Date().getFullYear()} Consento - All rights reserved - <a href="/credits">Credits</a> - <a href="/privacy-policy">Privacy Policy</a>`,
     },
   },
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            to: '/docs/time', // string
+            from: ['/blocks'], // string | string[]
+          },
+        ],
+      },
+    ],
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',

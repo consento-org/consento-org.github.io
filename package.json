@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "beeper": "^2.1.0",
-    "exiftool-vendored": "^13.1.0",
+    "exiftool-vendored": "^14.3.0",
     "gulp": "^4.0.2",
     "gulp-changed-in-place": "^2.3.0",
     "gulp-cli": "^2.3.0",

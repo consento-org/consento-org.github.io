@@ -54,7 +54,7 @@ What has cristallized out of our effort have been following technical foundation
 1. For team members to be added all members need to agree.
 2. For team members to be removed, all but the member removed need to agree.
 3. Each member can have only one **active** (and cancellable) request.
-4. All statements will use [a hybrid-local-clock](time) for syncronization.
+4. All statements will use [a hybrid-local-clock](docs/time) for syncronization.
 5. The statements will use [sign vectors](https://github.com/consento-org/crypto/#sign-vectors) to
     make sure that old device backups can not create forks of states.
 6. Members that are once removed can not be re-added again. _(each member is unique for a group!)_

@@ -57,6 +57,61 @@ function Home() {
               <a className="button__full" target="_blank" href="https://twitter.com/consentoorg">Get notified about releases</a>
             </div>
           </section>
+
+          <section className="landing__usecase">
+            <div className="landing__text landing__text__full">
+              <h2>Use cases</h2>
+              <p>Here is a short text to present the key use-cases on which the Consento team is actively working at the moment, developping the code, the screens and the partnerships.</p>
+            </div>
+            
+            <ul className="landing__usecase__list landing__values__list">
+            <li>
+            <figure className="kg-card kg-bookmark-card">
+              <a className="kg-bookmark-container" href="/blog/consento-brings-data-security-to-remote-workplace-management" target="_blank">
+                <div className="kg-bookmark-content">
+                  <img className="kg-bookmark-icon" src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} />
+                  <div className="kg-bookmark-title">Security of software escrow key management</div>
+                  <div className="kg-bookmark-description">Software licensee and developers look for safe solutions to secure their business continuity.</div>
+                  </div>
+              </a>
+            </figure>
+            </li>
+            <li>
+            <figure className="kg-card kg-bookmark-card">
+              <a className="kg-bookmark-container" href="/blog/consento-brings-data-security-to-remote-workplace-management" target="_blank">
+                <div className="kg-bookmark-content">
+                  <img className="kg-bookmark-icon" src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} />
+                  <div className="kg-bookmark-title">Digital security in remote workforce</div>
+                  <div className="kg-bookmark-description">Remote workers bear the stress of collectively handling the company secrets.</div>
+                  </div>
+              </a>
+            </figure>
+            </li>
+            <li>
+            <figure className="kg-card kg-bookmark-card">
+            <a className="kg-bookmark-container" href="/blog/medical-data-custody-for-all" target="_blank">
+              <div className="kg-bookmark-content">
+                <img className="kg-bookmark-icon" src="/img/external/unsplash/Owen-Beard-DK8jXx1B-1c-unsplash-CUT.jpg" style={{ float: 'left', width: '100%' }} />
+                <div className="kg-bookmark-title">Medical data security across stakeholders</div>
+                <div className="kg-bookmark-description">Medical data custodians bear the risks without having access to all data.</div>
+              </div>
+            </a>
+            </figure>
+            </li>
+            <li>
+            <figure className="kg-card kg-bookmark-card">
+            <a className="kg-bookmark-container" href="/blog/consento-secure-your-crypto-wallet" target="_blank">
+              <div className="kg-bookmark-content">
+                <img className="kg-bookmark-icon" src="/img/external/unsplash/davidshares_4_41-79dHvE_cut.jpg" style={{ float: 'left', width: '100%' }} />
+                <div className="kg-bookmark-title">Securing crypto-wallet keys</div>
+                <div className="kg-bookmark-description">For the Bitcoin millionnaires who fear losing their wallet key.</div>
+                </div>
+            </a>
+            </figure>
+            </li>
+            </ul>
+          </section>
+                        
           <section className="landing__technology">
             <div className="landing__text landing__text__left">
               <h2>The technology</h2>

@@ -17,9 +17,9 @@ module.exports = {
       },
       items: [
         {to: 'about', label: 'About', position: 'right'},
+        {to: 'docs/overview', label: 'Documentation', position: 'right'},
         {to: 'usecases', label: 'Use cases', position: 'right'},
         {to: 'team', label: 'Team', position: 'right'},
-        {to: 'supporters', label: 'Supporters', position: 'right'},
         {to: 'blog', label: 'Blog', position: 'right'},
         {to: 'download', label: 'Download', position: 'right', className: 'navbar__button'}
       ]
@@ -45,8 +45,8 @@ module.exports = {
           items: [
             { label: 'Github Repository', href: 'https://github.com/consento-org/', },
             { label: 'Keybase Chat', href: 'https://keybase.io/team/consento' },
-            { label: 'Building Blocks', to: 'blocks' },
-            { label: 'White Paper (upcoming...)', to: '/' },
+            { label: 'Building Blocks', to: 'docs/time' },
+            { label: 'Documentation', to: 'docs/overview' },
           ],
         },
         {
@@ -62,19 +62,46 @@ module.exports = {
       copyright: `© ${new Date().getFullYear()} Consento - All rights reserved - <a href="/credits">Credits</a> - <a href="/privacy-policy">Privacy Policy</a>`,
     },
   },
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            to: '/docs/time', // string
+            from: ['/blocks'], // string | string[]
+          },
+        ],
+      },
+    ],
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
       {
+        
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
             'https://github.com/consento-org/consento-org.github.io/edit/main/',
         },
+
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+       
         },
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          path: 'docs',
+          editUrl: 'https://github.com/consento-org/consento-org.github.io/tree/webpage-documentation',
+          routeBasePath: 'docs',
+          remarkPlugins: [],
+          rehypePlugins: [],
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+        },
+        
       },
     ],
   ],

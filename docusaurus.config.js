@@ -30,14 +30,9 @@ module.exports = {
         {
           title: 'Community',
           items: [
-            {
-              label: 'Keybase',
-              href: 'https://keybase.io/team/consento',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/consentoorg',
-            },
+            { label: 'Keybase', href: 'https://keybase.io/team/consento', },
+            { label: 'Twitter', href: 'https://twitter.com/consentoorg', },
+            { label: 'Supporters', to: 'supporters', },
           ],
         },
         {
@@ -54,7 +49,7 @@ module.exports = {
           items: [
             { label: 'Team', to: 'team', },
             { label: 'About', to: 'about', },
-            { label: 'Supporters', to: 'supporters', },
+            { label: 'コンセントについて', to: 'jp', },
             { label: 'Use cases', to: 'usecases', },
             ],
         },

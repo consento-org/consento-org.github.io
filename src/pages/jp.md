@@ -44,37 +44,66 @@ Consentoでは、エスクローシステムが作成され、異なるパーテ
 ## ソリューション
 Consentoのアプリは、あなたの組織にカスタムメイドのHuman-Factor Authenticationを構築することを可能にします。
  
+---
+
+<br/>
+
 <figure className="kg-card kg-image-card kg-card-hascaption">
   <img src="/img/tanja/cc-by-nc-sa/icons/passwordless.svg" style={{ float: 'left', width: '20%' }} />
-<figcaption><strong>パスワードレス</strong>なので、ハッキングの対象にならず、パスワードの管理ミスのリスクもありません。</figcaption>
 </figure>
+
+### パスワードレス
+なので、ハッキングの対象にならず、パスワードの管理ミスのリスクもありません。
+
+<br/>
 <br/>
 
 ---
 
 <br/>
+
 <figure className="kg-card kg-image-card kg-card-hascaption">
   <img src="/img/tanja/cc-by-nc-sa/icons/icon_lock.svg" style={{ float: 'left', width: '20%' }} />
-<figcaption><strong>クラウドフリー</strong>なので、中央管理者を必要とせず、認証プロセスはユーザーだけのものとなります。あなたのデータ管理はあなたの財産です。</figcaption>
 </figure>
+
+### クラウドフリー
+なので、中央管理者を必要とせず、認証プロセスはユーザーだけのものとなります。あなたのデータ管理はあなたの財産です。
+
+<br/>
 <br/>
 
 ---
 
 <br/>
+
 <figure className="kg-card kg-image-card kg-card-hascaption">
   <img src="/img/tanja/cc-by-nc-sa/icons/collaborative.svg" style={{ float: 'left', width: '20%' }} />
-<figcaption><strong>相互の応答性</strong>Consentoは、組織内やサプライヤー、顧客に配布される部分的な鍵によって、認証をより安全にします。一人のユーザーがシステム全体の故障の原因になることはありません。</figcaption>
 </figure>
+
+### 相互の応答性 
+Consentoは、組織内やサプライヤー、顧客に配布される部分的な鍵によって、認証をより安全にします。一人のユーザーがシステム全体の故障の原因になることはありません。
+
+
+<br/>
 <br/>
 
 ---
 
 <br/>
+
 <figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/tanja/cc-by-nc-sa/icons/icon_lock.svg" style={{ float: 'left', width: '20%' }} />
-<figcaption><strong>‌ハイセキュリティー</strong>、"共有された秘密」は量子的に安全です。</figcaption>
+  <img src="/img/tanja/cc-by-nc-sa/illustrations/use-case-client-data-horizontal@2x.png" style={{ float: 'left', width: '50%' }} />
 </figure>
+
+### ハイセキュリティー、
+「共有された秘密」は量子的に安全です。
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ---
@@ -86,49 +115,57 @@ Consentoのアプリは、あなたの組織にカスタムメイドのHuman-Fac
 
 ## 仕組みについて
 
+---
 
-### 暗号化
+<br/>
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
 <img src="/img/tanja/cc-by-nc-sa/illustrations/04-how-to-1.svg" style={{ float: 'left', width: '20%' }} />
 </figure>
 
+### 暗号化
 その場で強力な暗号化を行います。
 
 <br/>
+<br/>
 
 ---
- 
-### スプリットキー
+
+<br/>
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
 <img src="/img/tanja/cc-by-nc-sa/illustrations/04-how-to-2.svg" style={{ float: 'left', width: '20%' }} />
 </figure>
 
+### スプリットキー
 固有のパーツに分割された鍵を、信頼できる人と共有します。
 
+<br/>
 <br/>
 
 ---
 
-### ロック解除
+<br/>
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
 <img src="/img/tanja/cc-by-nc-sa/illustrations/04-how-to-3.svg" style={{ float: 'left', width: '20%' }} />
 </figure>
 
+### ロック解除
 ロック解除には「同意」が必要です。
 
+<br/>
 <br/>
 
 ---
 
-### プライベートネットワーク
+<br/>
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
 <img src="/img/tanja/cc-by-nc-sa/illustrations/04-how-to-4.svg" style={{ float: 'left', width: '20%' }} />
 </figure>
 
+### プライベートネットワーク
 誰にアクセス権利を渡すか管理することができます。
 
 <br/>

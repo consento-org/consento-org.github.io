@@ -138,4 +138,4 @@ Consentoのアプリは、あなたの組織にカスタムメイドのHuman-Fac
 
 通常、私たちはConsentoについての情報を <a href="https://keybase.io/team/consento">キーベースチャット</a>。思いついたことは何でも質問してください。 [keepsafe@consento.org](mailto:keepsafe@consento.org).
 
-<License author={["martin", "marc"]} year="2021" license="CC-BY-NC-SA" />
+<License author={["yuko", "marc"]} year="2021" license="CC-BY-NC-SA" />

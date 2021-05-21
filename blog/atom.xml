@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://consento.org/blog</id>
     <title>Consento Blog</title>
-    <updated>2021-05-17T00:00:00.000Z</updated>
+    <updated>2021-05-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://consento.org/blog"/>
     <subtitle>Consento Blog</subtitle>
     <icon>https://consento.org/img/consento/cc-by-nc-nd/logo/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shifting to remote working propelled the digital transformation. At what security costs?]]></title>
+        <id>Consento-the-digital-transformation-and-the-remote-workplace-management-for-CISO</id>
+        <link href="https://consento.org/blog/Consento-the-digital-transformation-and-the-remote-workplace-management-for-CISO"/>
+        <updated>2021-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISOs Interview: 3 Common Problems in Cyber Security Today]]></title>
         <id>CISO-Interview-3-Common-Problems-in-Cyber-Security-Today</id>

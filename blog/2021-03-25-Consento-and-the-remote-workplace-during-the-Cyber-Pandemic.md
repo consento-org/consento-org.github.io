@@ -2,7 +2,7 @@
 slug: Consento-and-the-remote-workplace-during-the-Cyber-Pandemic
 title: "How to steward security in your remote workplace. #CyberPandemic."
 author: Marc Chataigner
-author_title: UX Designer
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---

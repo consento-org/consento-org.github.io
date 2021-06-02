@@ -2,7 +2,7 @@
 slug: medical-data-custody-for-all
 title: "How to handle patients' medical data in a more secure manner by distributing responsibilities."
 author: Marc Chataigner
-author_title: UX Designer
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---

@@ -3,7 +3,7 @@ slug: how-to-stay-in-control-of-our-data
 title: How to stay in control of our data?
 image: /img/external/unsplash/swimstaralex_KgLtFCgfC28_cut.jpg
 author: Tanja Rohlfs
-author_title: UI / UX Designer
+author_title: UI/UX Design
 author_url: /team/tanja
 author_image_url: /img/tanja/cc-by-nc-nd/team/Tanja.svg
 ---

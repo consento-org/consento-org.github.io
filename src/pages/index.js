@@ -26,9 +26,8 @@ function Home() {
             <img src={useBaseUrl('img/tanja/cc-by-nc-sa/illustrations/privacy-by-design.svg')} />
           </div>
         </header>
-      
         <main className="landing">
-        <section className="landing__values">
+         <section className="landing__values">
               <h2>Our values</h2>
               <ul className="landing__values__list">
                 <li>
@@ -68,7 +67,6 @@ function Home() {
             </div>
             <p className="landing__text landing__text__full">The many potenatials brought by the digital transformation come along with data privacy challenges. These challenges lie less in technical systems than in the stress of managing confidential data collectively. Consento empowers professionals and SMEs to build their private decentralized, passwordless multi-factor authentication hub. Our apps turn your devices into keys. The access to confidential data becomes collectively secured. The responsibility of handling confidential access is shared.</p>
           </section>
-
           <section className="landing__solution">
             <h2>Our solution</h2>
             <div className="landing__image">
@@ -101,8 +99,10 @@ function Home() {
               <a className="kg-bookmark-container" href="/blog/consento-brings-data-security-to-remote-workplace-management" target="_blank">
                 <div className="kg-bookmark-content">
                   <img className="kg-bookmark-icon" src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} />
-                  <div className="kg-bookmark-title">Security of software escrow key management</div>
-                  <div className="kg-bookmark-description">Software licensee and developers look for safe solutions to secure their business continuity.</div>
+                  <div className="kg-bookmark-padding"> 
+                    <div className="kg-bookmark-title">Security of software escrow key management</div>
+                    <div className="kg-bookmark-description">Software licensee and developers look for safe solutions to secure their business continuity.</div>
+                  </div>
                   </div>
               </a>
             </figure>
@@ -112,8 +112,10 @@ function Home() {
               <a className="kg-bookmark-container" href="/blog/consento-brings-data-security-to-remote-workplace-management" target="_blank">
                 <div className="kg-bookmark-content">
                   <img className="kg-bookmark-icon" src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} />
-                  <div className="kg-bookmark-title">Digital security in remote workforce</div>
-                  <div className="kg-bookmark-description">Remote workers bear the stress of collectively handling the company secrets.</div>
+                  <div className="kg-bookmark-padding"> 
+                    <div className="kg-bookmark-title">Digital security in remote workforce</div>
+                    <div className="kg-bookmark-description">Remote workers bear the stress of collectively handling the company secrets.</div>
+                  </div>
                   </div>
               </a>
             </figure>
@@ -123,8 +125,10 @@ function Home() {
             <a className="kg-bookmark-container" href="/blog/medical-data-custody-for-all" target="_blank">
               <div className="kg-bookmark-content">
                 <img className="kg-bookmark-icon" src="/img/external/unsplash/Owen-Beard-DK8jXx1B-1c-unsplash-CUT.jpg" style={{ float: 'left', width: '100%' }} />
-                <div className="kg-bookmark-title">Medical data security across stakeholders</div>
-                <div className="kg-bookmark-description">Medical data custodians bear the risks without having access to all data.</div>
+                <div className="kg-bookmark-padding"> 
+                  <div className="kg-bookmark-title">Medical data security across stakeholders</div>
+                  <div className="kg-bookmark-description">Medical data custodians bear the risks without having access to all data.</div>
+                </div>
               </div>
             </a>
             </figure>
@@ -134,15 +138,16 @@ function Home() {
             <a className="kg-bookmark-container" href="/blog/consento-secure-your-crypto-wallet" target="_blank">
               <div className="kg-bookmark-content">
                 <img className="kg-bookmark-icon" src="/img/external/unsplash/davidshares_4_41-79dHvE_cut.jpg" style={{ float: 'left', width: '100%' }} />
-                <div className="kg-bookmark-title">Securing crypto-wallet keys</div>
-                <div className="kg-bookmark-description">For the Bitcoin millionnaires who fear losing their wallet key.</div>
+                <div className="kg-bookmark-padding"> 
+                  <div className="kg-bookmark-title">Securing crypto-wallet keys</div>
+                  <div className="kg-bookmark-description">For the Bitcoin millionnaires who fear losing their wallet key.</div>
+                </div>
                 </div>
             </a>
             </figure>
             </li>
             </ul>
           </section>
-                        
           <section className="landing__technology">
             <div className="landing__text landing__text__left">
               <h2>The technology</h2>
@@ -200,9 +205,6 @@ function Home() {
                 </li>
               </ul>
             </section>
-        
-          
-            
             <section className="landing__roadmap">
               <h2>Consento roadmap</h2>
               <div className="landing__image landing__image__full">

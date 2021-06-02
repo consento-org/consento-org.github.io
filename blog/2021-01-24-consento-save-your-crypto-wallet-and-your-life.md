@@ -2,7 +2,7 @@
 slug: consento-secure-your-crypto-wallet
 title: How Consento can save your life of a crypto-millionaire
 author: Marc Chataigner
-author_title: UX Designer
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---

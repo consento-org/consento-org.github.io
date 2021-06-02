@@ -2,6 +2,7 @@
 slug: TETRA-bootcamp-scale-up-2021
 title: "Joining the TETRA bootcamp on 'scaling up'"
 author: Daniel Kastl
+author_title: Business development
 author_url: /team/daniel
 author_image_url: /img/tanja/cc-by-nc-nd/team/Daniel.svg
 ---

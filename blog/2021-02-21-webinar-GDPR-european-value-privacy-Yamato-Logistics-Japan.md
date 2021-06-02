@@ -2,7 +2,7 @@
 slug: webinar-GDPR-european-value-privacy-Yamato-Logistics-Japan
 title: "'Background of GDPR and European Values on Privacy', a Consento webinar at ProjectDS"
 author: Yuko Fujisawa
-author_title: CMO
+author_title: Marketing Communications 
 author_url: /team/yuko
 author_image_url: /img/tanja/cc-by-nc-nd/team/Yuko.svg
 ---

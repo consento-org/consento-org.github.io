@@ -2,7 +2,7 @@
 slug: consento-makes-file-transfer-safe
 title: How to manage contractors' responsibility in confidential file sharing with Consento
 author: Marc Chataigner
-author_title: UX Designer
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---

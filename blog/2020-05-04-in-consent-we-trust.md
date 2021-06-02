@@ -2,6 +2,7 @@
 slug: in-consent-we-trust
 title: In consent we trust
 author: Marc Chataigner
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 tags: [design, trust]

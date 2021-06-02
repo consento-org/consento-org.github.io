@@ -2,7 +2,7 @@
 slug: consento-brings-data-security-to-remote-workplace-management
 title: How Consento can bring data security in your remote workplace management
 author: Marc Chataigner
-author_title: UX Designer
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---

@@ -98,7 +98,7 @@ function Home() {
             <figure className="kg-card kg-bookmark-card">
               <a className="kg-bookmark-container" href="/blog/consento-brings-data-security-to-remote-workplace-management" target="_blank">
                 <div className="kg-bookmark-content">
-                  <img className="kg-bookmark-icon" src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} />
+                  <img className="kg-bookmark-icon" src="/img/external/unsplash/krakenimages-Group-of-business-workers-standing-with-hands-together-doing-symbol-at-the-office.png" style={{ float: 'left', width: '100%' }} />
                   <div className="kg-bookmark-padding"> 
                     <div className="kg-bookmark-title">Security of software escrow key management</div>
                     <div className="kg-bookmark-description">Software licensee and developers look for safe solutions to secure their business continuity.</div>

@@ -3,6 +3,7 @@ slug: mobile-first
 title: "Choosing the hard road: Mobile-first!"
 image: images/2020/03/design-2.png
 author: Martin Heidegger
+author_title: Software Development
 author_url: /team/martin
 author_image_url: /img/tanja/cc-by-nc-nd/team/Martin.svg
 ---

@@ -18,7 +18,7 @@ function Home() {
         <header className="landing__hero">
           <div className="landing__hero__left">
             <h1 className="landing__hero__title">{siteConfig.title}</h1>
-            <p className="landing__hero__subtitle"><span>Data privacy</span> <span>for humans,</span> <span>by humans.</span></p>
+            <p className="landing__hero__subtitle"><span>Data privacy for humans,</span> <span>by humans.</span></p>
             <p className="landing__hero__text">{description}</p>
             <a className="button__full" href="/usecases">Discover our use cases</a>
           </div>
@@ -27,6 +27,36 @@ function Home() {
           </div>
         </header>
         <main className="landing">
+         <section className="landing__values">
+              <h2>Our values</h2>
+              <ul className="landing__values__list">
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_lock.svg')} />
+                  <h3>Privacy by Design</h3>
+                  <p>Consento provides 100% privacy.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_empowerment.svg')} />
+                  <h3>Empowerment</h3>
+                  <p>Consento makes you keep control over our data.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_human centric.svg')} />
+                  <h3>Human centric</h3>
+                  <p>Consento builds on trusted human relationship.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_transparency.svg')} />
+                  <h3>Transparency</h3>
+                  <p>Consento is 100% FOSS.</p>
+                </li>
+                <li>
+                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_diversity.svg')} />
+                  <h3>Diversity</h3>
+                  <p>Consento empowers small businesses.</p>
+                </li>
+              </ul>
+            </section>
           <section className="landing__video">
             <div className="landing__vimeo">
               <iframe
@@ -37,7 +67,6 @@ function Home() {
             </div>
             <p className="landing__text landing__text__full">The many potenatials brought by the digital transformation come along with data privacy challenges. These challenges lie less in technical systems than in the stress of managing confidential data collectively. Consento empowers professionals and SMEs to build their private decentralized, passwordless multi-factor authentication hub. Our apps turn your devices into keys. The access to confidential data becomes collectively secured. The responsibility of handling confidential access is shared.</p>
           </section>
-
           <section className="landing__solution">
             <h2>Our solution</h2>
             <div className="landing__image">
@@ -70,8 +99,10 @@ function Home() {
               <a className="kg-bookmark-container" href="/blog/consento-brings-data-security-to-remote-workplace-management" target="_blank">
                 <div className="kg-bookmark-content">
                   <img className="kg-bookmark-icon" src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} />
-                  <div className="kg-bookmark-title">Security of software escrow key management</div>
-                  <div className="kg-bookmark-description">Software licensee and developers look for safe solutions to secure their business continuity.</div>
+                  <div className="kg-bookmark-padding"> 
+                    <div className="kg-bookmark-title">Security of software escrow key management</div>
+                    <div className="kg-bookmark-description">Software licensee and developers look for safe solutions to secure their business continuity.</div>
+                  </div>
                   </div>
               </a>
             </figure>
@@ -81,8 +112,10 @@ function Home() {
               <a className="kg-bookmark-container" href="/blog/consento-brings-data-security-to-remote-workplace-management" target="_blank">
                 <div className="kg-bookmark-content">
                   <img className="kg-bookmark-icon" src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} />
-                  <div className="kg-bookmark-title">Digital security in remote workforce</div>
-                  <div className="kg-bookmark-description">Remote workers bear the stress of collectively handling the company secrets.</div>
+                  <div className="kg-bookmark-padding"> 
+                    <div className="kg-bookmark-title">Digital security in remote workforce</div>
+                    <div className="kg-bookmark-description">Remote workers bear the stress of collectively handling the company secrets.</div>
+                  </div>
                   </div>
               </a>
             </figure>
@@ -92,8 +125,10 @@ function Home() {
             <a className="kg-bookmark-container" href="/blog/medical-data-custody-for-all" target="_blank">
               <div className="kg-bookmark-content">
                 <img className="kg-bookmark-icon" src="/img/external/unsplash/Owen-Beard-DK8jXx1B-1c-unsplash-CUT.jpg" style={{ float: 'left', width: '100%' }} />
-                <div className="kg-bookmark-title">Medical data security across stakeholders</div>
-                <div className="kg-bookmark-description">Medical data custodians bear the risks without having access to all data.</div>
+                <div className="kg-bookmark-padding"> 
+                  <div className="kg-bookmark-title">Medical data security across stakeholders</div>
+                  <div className="kg-bookmark-description">Medical data custodians bear the risks without having access to all data.</div>
+                </div>
               </div>
             </a>
             </figure>
@@ -103,15 +138,16 @@ function Home() {
             <a className="kg-bookmark-container" href="/blog/consento-secure-your-crypto-wallet" target="_blank">
               <div className="kg-bookmark-content">
                 <img className="kg-bookmark-icon" src="/img/external/unsplash/davidshares_4_41-79dHvE_cut.jpg" style={{ float: 'left', width: '100%' }} />
-                <div className="kg-bookmark-title">Securing crypto-wallet keys</div>
-                <div className="kg-bookmark-description">For the Bitcoin millionnaires who fear losing their wallet key.</div>
+                <div className="kg-bookmark-padding"> 
+                  <div className="kg-bookmark-title">Securing crypto-wallet keys</div>
+                  <div className="kg-bookmark-description">For the Bitcoin millionnaires who fear losing their wallet key.</div>
+                </div>
                 </div>
             </a>
             </figure>
             </li>
             </ul>
           </section>
-                        
           <section className="landing__technology">
             <div className="landing__text landing__text__left">
               <h2>The technology</h2>
@@ -166,58 +202,6 @@ function Home() {
                   <h3>Private network</h3>
                   <img src={useBaseUrl('img/tanja/cc-by-nc-sa/illustrations/04-how-to-4.svg')} />
                   <p>Keep control over who has access.</p>
-                </li>
-              </ul>
-            </section>
-            <section className="landing__coownership">
-              <div className="landing__image">
-                <img src={useBaseUrl('img/tanja/cc-by-nc-sa/illustrations/use-case-travel.svg')} />
-              </div>
-              <div className="landing__text landing__text__right">
-                <h2>Co-ownership of confidential data.</h2>
-                <p>When you’re far from home, Consento enables you to keep all your travel documents backuped and encrypted. No one can access these documents without combining the 3 parts of the key. No password required.</p>
-                <p>Just paired devices.</p>
-              </div>
-            </section>
-            <section className="landing__dataintegrity">
-              <div className="landing__text landing__text__left">
-                <h2>Data integrity across organizations.</h2>
-                <p>When you are asked to take care of confidential of your client, Consento enables you to backup encrypted on paired devices, without the need to share the password via email, nor rely on central cloud services.</p>
-                <p>Consento is an access control technology designed to quickly integrate in organizations and employees’ liability systems.</p>
-                <p>Unlike competitors building on centralized passwordless systems, Consento protocol remains distributed, grating end-users the full ownership of their data and secrets. Which also means no maintenance costs for Consento, lowering the cost per user for corporate clients.</p>
-                <p>Just shared responsibility.</p>
-              </div>
-              <div className="landing__image">
-                <img src={useBaseUrl('img/tanja/cc-by-nc-sa/illustrations/use-case-client-data.svg')} />
-              </div>
-            </section>
-            <section className="landing__values">
-              <h2>Our values</h2>
-              <ul className="landing__values__list">
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_lock.svg')} />
-                  <h3>Privacy by Design</h3>
-                  <p>Consento provides 100% privacy.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_empowerment.svg')} />
-                  <h3>Empowerment</h3>
-                  <p>Consento makes you keep control over our data.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_human centric.svg')} />
-                  <h3>Human centric</h3>
-                  <p>Consento builds on trusted human relationship.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_transparency.svg')} />
-                  <h3>Transparency</h3>
-                  <p>Consento is 100% FOSS.</p>
-                </li>
-                <li>
-                  <img src={useBaseUrl('img/tanja/cc-by-nc-sa/icons/icon_diversity.svg')} />
-                  <h3>Diversity</h3>
-                  <p>Consento empowers small businesses.</p>
                 </li>
               </ul>
             </section>

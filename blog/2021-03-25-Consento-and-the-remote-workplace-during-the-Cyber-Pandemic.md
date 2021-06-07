@@ -2,6 +2,7 @@
 slug: Consento-and-the-remote-workplace-during-the-Cyber-Pandemic
 title: "How to steward security in your remote workplace. #CyberPandemic."
 author: Marc Chataigner
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---
@@ -12,7 +13,9 @@ import { License, Image } from '../src/theme/consento'
 
 As a simple metric, the FBI has seen a [fourfold increase in cybersecurity complaints](https://www.entrepreneur.com/article/349509). At the same time, the global losses from cybercrime exceeded [$1 trillion in 2020](https://www.businesswire.com/news/home/20201206005011/en/New-McAfee-Report-Estimates-Global-Cybercrime-Losses-to-Exceed-1-Trillion).
 
+
 The world post-2020 isn't quite the same. While the digital transformation is accelerating, executives still need to figure out ways to secure their digital assets and teams.
+<!--truncate-->
 
 ## 2021 PwC survey on CEOs says: "remote working makes cybersecurity a top worry."
 

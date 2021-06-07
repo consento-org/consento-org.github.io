@@ -2,6 +2,7 @@
 slug: consento-introcution-video
 title: To start the year fresh, a fresh video on Consento
 author: Marc Chataigner
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---

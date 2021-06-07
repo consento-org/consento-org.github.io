@@ -2,6 +2,7 @@
 slug: in-consent-we-trust
 title: In consent we trust
 author: Marc Chataigner
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 tags: [design, trust]
@@ -9,7 +10,9 @@ image: /img/external/pixabay/anemone123-2637160_team-spirit-cohesion-together-24
 ---
 import { Image, License } from '../src/theme/consento'
 
-The concept behind Consento - Human-Factor Authentication - requires trust. Consento aims at delivering a novel way to securely store confidential data encrypted without central cloud solution, and access them without depending on complex passwords. Instead, with Consento users can request the consents of peers they have decided to rely on. Such a new way to secure confidential data requires appropriate [UX][] (user experience) &amp; [UI][] (user interface) to guide users in handling data privacy. But before discussing about the right UX/UI, we need to discuss a bit about a fundamental object: trust.
+The concept behind Consento - Human-Factor Authentication - requires trust. Consento aims at delivering a novel way to securely store confidential data encrypted without central cloud solution, and access them without depending on complex passwords. Instead, with Consento users can request the consents of peers they have decided to rely on.
+<!--truncate-->
+Such a new way to secure confidential data requires appropriate [UX][] (user experience) &amp; [UI][] (user interface) to guide users in handling data privacy. But before discussing about the right UX/UI, we need to discuss a bit about a fundamental object: trust.
 
 Indeed, before it comes to build trust in the UI, we need to build trust in the system. And before the system, there is the belief in the system. Consento story requires quite some thoughts about various forms of trust: trust in the _system_ build by the web of devices, and in the other _peers_ who act as trustees, if not also trust in the Consento _business_ and team itself. So, to start with, what do we speak about when we speak about trust?
 

@@ -132,13 +132,24 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+.blogPostTitle_node_modules-\@docusaurus-theme-classic-lib-next-theme-BlogPostItem- {
+  font-size: 2rem !important;
+}
+
+.markdown > h2 {
+  --ifm-h2-font-size: 1.5rem !important;
+}
+
+.markdown > h3 {
+  --ifm-h3-font-size: 1rem;
+}
 
 /* You can override the default Infima variables here. */
 :root {
   --ifm-font-family-base: "WorkSans", sans-serif;
   --ifm-font-family-header: "Catamaran", sans-serif;
   --ifm-color-primary: #f03434;
-  --ifm-color-secondary: #37afc9;
+  --ifm-color-secondary: #05a3bd;
   --ifm-color-caption: rgb(90, 90, 90);
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
@@ -147,10 +158,14 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
-  --ifm-navbar-shadow: 0 0 10px rgba(0,0,0,0.56);
+  --ifm-navbar-shadow: 0 0 15px rgba(0,0,0,0.1);
   --c-landing-padding: 40px;
   --c-sidenote-color: rgb(120, 120, 120);
   --c-code-background: rgb(72, 77, 91);
+  --ifm-code-padding-horizontal: 0.3rem;
+  --ifm-code-padding-vertical: 0.1rem;
+  --c-landing-padding: 5px;
+
 }
 
 .footer--dark {
@@ -217,7 +232,7 @@ h1, h2, h3, h4, h5 {
   justify-content: center;
   transition: box-shadow 1s;
   height: 95px;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: bold;
 }
 .navbar-top {
@@ -225,10 +240,10 @@ h1, h2, h3, h4, h5 {
 }
 .navbar__button {
   margin-left: 21px;
-  padding: 0.625em 25px;
+  padding: 0.6em 25px;
   color: var(--ifm-color-secondary);
   font-family: "Catamaran", sans-serif;
-  border-radius: 11px;
+  border-radius: 30px;
   border: 1px solid var(--ifm-color-secondary);
 }
 .navbar__button:hover {
@@ -248,7 +263,8 @@ h1, h2, h3, h4, h5 {
 }
 .landing section,
 .landing__hero {
-  margin-bottom: 3em;
+  margin-bottom: 5em;
+  margin-top: 5em;
 }
 .landing__hero {
   display: flex;
@@ -267,11 +283,12 @@ h1, h2, h3, h4, h5 {
   align-items: flex-start;
   text-align: left;
   padding: 0;
+  margin:auto;
 }
 .landing__hero__subtitle {
-  margin-top: 2.5em;
+
   font-family: "Catamaran", sans-serif;
-  font-size: 3.75em;
+  font-size: 3em;
   line-height: 1em;
   display: inline-block;
 }
@@ -280,7 +297,8 @@ h1, h2, h3, h4, h5 {
   word-wrap: nowrap;
 }
 .landing__hero__image {
-  width: 50%;
+  width: 35%;
+  margin: auto;
 }
 .landing section {
   display: flex;
@@ -306,14 +324,13 @@ h1, h2, h3, h4, h5 {
   padding: 0 var(--c-landing-padding);
 }
 .landing h2 {
-  font-size: 4em;
+  font-size: 3em;
 }
 .landing h3,
 .landing__text h2 {
   font-size: 2.77em;
 }
 .landing__text h2 {
-  text-align: left;
   padding: 0;
 }
 .landing ul, .landing li {
@@ -326,7 +343,9 @@ h1, h2, h3, h4, h5 {
   align-items: flex-start;
 }
 .landing__text__full {
-  width: 100%;
+  max-width: 800px;
+  margin: auto; 
+  margin-bottom: 2em;
   padding: var(--c-landing-padding);
 }
 .landing__text__left,
@@ -354,6 +373,7 @@ h1, h2, h3, h4, h5 {
 .landing__usecase ul, .landing__values ul {
   display: flex;
   flex-wrap: wrap;
+
 }
 .landing__vimeo {
   width: 100% !important;
@@ -373,16 +393,16 @@ h1, h2, h3, h4, h5 {
 .button__full {
   background-color: var(--ifm-color-secondary);
   color: #fff;
-  font-family: "Catamaran", sans-serif;
+  font-family: "Worksans", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
   align-content: center;
   height: 60px;
-  border-radius: 11px;
-  padding: 0 15px;
-  font-size: 24px;
-  text-decoration: none;
+  border-radius: 30px;
+  padding: 0 30px;
+  font-size: 18;
+  text-transform: uppercase;
   word-wrap: none;
   margin-top: 15px;
 }
@@ -511,6 +531,9 @@ hr {
     padding: 0 2em;
     order: 1;
   }
+ 
+
+
 }
 @media screen and (max-width: 760px) {
   .landing h2 {
@@ -576,13 +599,25 @@ hr {
   .landing__hero__image {
     width: 75%;
     align-self: center;
+    margin:auto;
   }
   .landing__values__list li {
     width: 100%;
   }
 }
+
+@media screen and (min-width: 1024px)
+{
+  .landing__hero {
+    max-width: 100%;
+    margin: 1em 1em auto;
+
+    }
+}
+
+
 .kg-card {
-  margin: 0 0 2rem 0;
+  margin: 0rem 1rem 1rem 0;
 }
 .kg-card footer {
   text-align: right;
@@ -623,7 +658,7 @@ hr {
   flex-basis: 100%;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 20px;
+
 }
 .kg-bookmark-thumbnail {
   position: relative;
@@ -633,6 +668,9 @@ hr {
 .kg-bookmark-title {
   font-size: 1.2em;
   font-weight: 600;
+}
+.kg-bookmark-padding {
+  padding: 15px 15px 10px 15px;
 }
 .kg-bookmark-metadata {
   display: flex;
@@ -654,6 +692,14 @@ hr {
   top: 0;
   left: 0;
 }
+
+.kg-bookmark-icon
+{
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+}
+
 .consento_section {
   max-width: var(--ifm-container-width);
   margin: 0 var(--ifm-spacing-horizontal);

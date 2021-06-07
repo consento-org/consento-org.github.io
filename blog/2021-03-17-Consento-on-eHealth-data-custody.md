@@ -2,6 +2,7 @@
 slug: medical-data-custody-for-all
 title: "How to handle patients' medical data in a more secure manner by distributing responsibilities."
 author: Marc Chataigner
+author_title: UX Design
 author_url: /team/marc
 author_image_url: /img/tanja/cc-by-nc-nd/team/Marc.svg
 ---
@@ -16,14 +17,10 @@ import { License, Image } from '../src/theme/consento'
   alt="OK sign shot in a X-ray machine. (photo credit @owenbeard)"
 />
 
----
 
-
-## Personal medical information are the cornerstone of relevant eHealth, and yet remain unmanaged.
-
-### Who gets to host - and provide remote access to - patients medical data? 
-
-Each and every medical expert and organisation holds dear to the patient data they host. And they have to. But each part of the patient data portfolio remains to be enriched with the rest of the information. With services increasingly requiring access to patient's medical data, the responsibility over medical data custody is scattered. 
+Personal medical information are the cornerstone of relevant eHealth, and yet remain unmanaged.
+Who gets to host - and provide remote access to - patients medical data? Each and every medical expert and organisation holds dear to the patient data they host. And they have to. But each part of the patient data portfolio remains to be enriched with the rest of the information. With services increasingly requiring access to patient's medical data, the responsibility over medical data custody is scattered. 
+<!--truncate-->
 
 ### Yes, the patient should be in charge. But is the patient literate enough to handle health data properly? 
 

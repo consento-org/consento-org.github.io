@@ -83,7 +83,7 @@ As we know tool integration is one of the challenges CISOs often mention, we mak
 
 If you are a CISO, do you resonate with any of these 3 problems? If you are not a security expert, what would you expect security experts do for you? 
 
-Please <a href="https://keybase.io/team/consento">let us know</a>! And if you want a demo of Consento technologies, <a href="mailto:yuko@consento.org; keepsafe@consento.org">get in touch</a> with us.
+Please <a href="https://discord.gg/BAPxpGjgXH">let us know</a>! And if you want a demo of Consento technologies, <a href="mailto:yuko@consento.org; keepsafe@consento.org">get in touch</a> with us.
 
 --- 
 

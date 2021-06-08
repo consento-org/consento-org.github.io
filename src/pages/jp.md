@@ -173,6 +173,6 @@ Consentoの"カギ"は多数の暗号化と「シャミアの秘密分散法」�
 ---
 
 
-Consentoについての情報は <a href="https://keybase.io/team/consento">キーベースチャット</a>で共有しています。お気軽に質問やコメントをお送りください。 [keepsafe@consento.org](mailto:keepsafe@consento.org).
+Consentoについての情報は <a href="https://discord.gg/BAPxpGjgXH">Discordチャット</a>で共有しています。お気軽に質問やコメントをお送りください。 [keepsafe@consento.org](mailto:keepsafe@consento.org).
 
 <License author={["yuko", "marc"]} year="2021" license="CC-BY-NC-SA" />

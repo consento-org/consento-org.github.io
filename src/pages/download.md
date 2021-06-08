@@ -42,4 +42,4 @@ Hey there, thanks for your interest in Consento! 😻 Be aware: this project is 
   </a>
 </figure>
 
-<p>If you are looking for a standalone iOS app, please contact us through our chat (<a href="https://keybase.io/team/consento">https://keybase.io/team/consento</a>) or send us an email at <a href="mailto:keepsafe@consento.org">keepsafe@consento.org</a>.</p><p><strong>We are looking forward to our journey together!</strong></p>
+<p>If you are looking for a standalone iOS app, please contact us through our chat (<a href="https://discord.gg/BAPxpGjgXH">https://discord.gg/BAPxpGjgXH</a>) or send us an email at <a href="mailto:keepsafe@consento.org">keepsafe@consento.org</a>.</p><p><strong>We are looking forward to our journey together!</strong></p>

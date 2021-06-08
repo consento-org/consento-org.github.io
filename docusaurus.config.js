@@ -48,7 +48,7 @@ module.exports = {
         {
           title: 'Community',
           items: [
-            { label: 'Keybase', href: 'https://keybase.io/team/consento', },
+            { label: 'Discord', href: 'https://discord.gg/BAPxpGjgXH', },
             { label: 'Twitter', href: 'https://twitter.com/consentoorg', },
             { label: 'Supporters', to: 'supporters', },
           ],
@@ -57,7 +57,7 @@ module.exports = {
           title: 'Develop',
           items: [
             { label: 'Github Repository', href: 'https://github.com/consento-org/', },
-            { label: 'Keybase Chat', href: 'https://keybase.io/team/consento' },
+            { label: 'Discord Chat', href: 'https://discord.gg/BAPxpGjgXH' },
             { label: 'Building Blocks', to: 'docs/time' },
             { label: 'Documentation', to: 'docs/overview' },
           ],

@@ -74,7 +74,7 @@ You can have a look at the Consento mobile app right now → [Releases][].
 
 The version v1.0.2 is still a very early preview, but it may inspire you.
 
-In the meanwhile, we will be working on several improvements. You can follow our progress on this blog, using RSS, or in the [keybase chat][keybase-chat].
+In the meanwhile, we will be working on several improvements. You can follow our progress on this blog, using RSS, or in the [discord chat][discord-chat].
 
 <License author="martin" year="2021" license="CC-BY-NC-SA" />
 
@@ -101,4 +101,4 @@ In the meanwhile, we will be working on several improvements. You can follow our
 [crypto-laws]: https://www.insideprivacy.com/data-security/china-enacts-encryption-law/
 [subscribe]: https://github.com/consento-org/mobile/issues/90
 [Releases]: https://github.com/consento-org/mobile/releases
-[keybase-chat]: https://keybase.io/team/consento
+[discord-chat]: https://discord.gg/BAPxpGjgXH

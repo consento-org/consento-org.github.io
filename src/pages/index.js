@@ -154,7 +154,7 @@ function Home() {
               <p>A lot of encryption, and a bit of Shamir’s secret.</p>
               <p>All of our code and all designs are open source. You can have a look at the inner workings right now!</p>
               <a className="button__full" href="https://github.com/consento-org">Source Code</a>
-              <a className="button__full" href="https://keybase.io/team/consento">Chat Channel</a>
+              <a className="button__full" href="https://discord.gg/BAPxpGjgXH">Chat Channel</a>
             </div>
             <div className="landing__code">
               <CodeBlock className="language-typescript">

@@ -17,6 +17,6 @@ When in Japan, Martin hosts often Saturday Morning Consento breakfasts at the <a
 In the summer there will also be various meeting chances in Europe, in Vienna, Munich and potentially Amsterdam. Learn about those by subscribing to our <a href="https://github.com/consento-org/events">events repository</a>.
 
 ## Meet us Online
-Usually we communicate about Consento on our <a href="https://keybase.io/team/consento">Keybase chat</a>. Feel free to ask us any questions that come to mind. [keepsafe@consento.org](mailto:keepsafe@consento.org).
+Usually we communicate about Consento on our <a href="https://discord.gg/BAPxpGjgXH">Discord chat</a>. Feel free to ask us any questions that come to mind. [keepsafe@consento.org](mailto:keepsafe@consento.org).
 
 <License author={["martin", "marc"]} year="2021" license="CC-BY-NC-SA" />

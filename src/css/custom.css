@@ -320,15 +320,14 @@ h1, h2, h3, h4, h5 {
 .landing h2, .landing h3 {
   width: 100%;
   text-align: center;
-  font-weight: bold;
   padding: 0 var(--c-landing-padding);
 }
 .landing h2 {
-  font-size: 3em;
+  font-size: 2.5em;
 }
 .landing h3,
 .landing__text h2 {
-  font-size: 2.77em;
+  font-size: 2.5em;
 }
 .landing__text h2 {
   padding: 0;
@@ -341,6 +340,8 @@ h1, h2, h3, h4, h5 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  max-width: 800px;
+  margin:auto;
 }
 .landing__text__full {
   max-width: 800px;
@@ -350,17 +351,14 @@ h1, h2, h3, h4, h5 {
 }
 .landing__text__left,
 .landing__text__right {
-  padding-top: 1.5em;
   width: 50%;
+  margin:auto;
 }
 .landing__text__left {
   padding-left: var(--c-landing-padding);
   padding-right: 0.5em;
 }
-.landing__text__right {
-  padding-left: 0.5em;
-  padding-right: var(--c-landing-padding);
-}
+
 .landing__text li {
   padding-left: 0.3em;
   margin-left: 1em;
@@ -373,13 +371,17 @@ h1, h2, h3, h4, h5 {
 .landing__usecase ul, .landing__values ul {
   display: flex;
   flex-wrap: wrap;
-
 }
+
+.landing__video {
+  flex-direction: column!important;
+}
+
 .landing__vimeo {
-  width: 100% !important;
-  padding: 56.25% 0 0 0;
+  padding: 50% 0 0 0;
   position: relative;
   border: 2px solid rgba(0,0,0,0.2);
+  margin-top: 1em;
 }
 .landing__how li {
   width: 25%;
@@ -536,12 +538,29 @@ hr {
 
 }
 @media screen and (max-width: 760px) {
-  .landing h2 {
-    font-size: 3em;
+
+  .landing__vimeo {
+    width:100%;
+    padding: 55% 0 0 0;
+    margin-bottom: 2em;
   }
+
+  .landing h2 {
+    font-size: 1em;
+  }
+  
+  .landing section, .landing__hero {
+    margin-bottom: 2em;
+    margin-top: 0em;
+}
   .landing__text {
     width: 100%;
-    order: 1;
+
+  }
+
+  .landing__text__full {
+    margin-bottom: 1em;
+
   }
   .landing__tasklist {
     width: 50%;
@@ -557,7 +576,7 @@ hr {
     width: 60%;
   }
   .landing__hero__subtitle {
-    font-size: 3em;
+    font-size: 2em;
   }
   .landing__hero__image {
     width: 35%;
@@ -572,11 +591,7 @@ hr {
   .landing__hero .button__full {
     min-width: 100%;
   }
-  .landing__text__left,
-  .landing__text__right {
-    padding-left: var(--c-landing-padding);
-    padding-right: var(--c-landing-padding);
-  }
+
   .landing__code {
     width: 100%;
     padding-left: var(--c-landing-padding);

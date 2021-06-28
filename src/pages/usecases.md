@@ -9,7 +9,7 @@ import { Image, License } from '../theme/consento'
 ## Usecase #4 - Medical data custodians bear the risks without having access to all data.
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/external/unsplash/Owen-Beard-DK8jXx1B-1c-unsplash-CUT.jpg" style={{ float: 'left', width: '100%' }} alt="OK sign shot in a X-ray machine. (photo credit @owenbeard)" />
+  <img src="/img/external/unsplash/Owen-Beard-DK8jXx1B-1c-unsplash-CUT.jpg" style={{ width: '100%' }} alt="OK sign shot in a X-ray machine. (photo credit @owenbeard)" />
 </figure>
 
 Each and every medical expert and organisation holds dear to the patient data they host. And they have to. But each part of the patient data portfolio remains to be enriched with the rest of the information. With services increasingly requiring access to patient's medical data, the responsibility over medical data custody is scattered. 
@@ -25,10 +25,10 @@ Read more on [how Consento can help](/blog/medical-data-custody-for-all).
 ## Usecase #3 - Remote workers bear the stress of collectively handling the company secrets.
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ float: 'left', width: '100%' }} alt="Remote working and accessing confidential company data increase the risks of data leak. (photo credit @andrewtneel)" />
+  <img src="/img/external/unsplash/andrewtneel_ute2XAFQU2I_cut.jpg" style={{ width: '100%' }} alt="Remote working and accessing confidential company data increase the risks of data leak. (photo credit @andrewtneel)" />
 </figure>
 
-Beyond the inconveniency of mixing up personal and professional spheres 24/7, remote working brings along another source of stress for remote workers. Now that devices are connected and used outside the company network, the risk of mishandling passwords or using unsecure networks has become higher than ever. 
+<p>Beyond the inconveniency of mixing up personal and professional spheres 24/7, remote working brings along another source of stress for remote workers. Now that devices are connected and used outside the company network, the risk of mishandling passwords or using unsecure networks has become higher than ever. </p>
 
 <br/>
 
@@ -42,7 +42,7 @@ Read more on [how Consento can help](/blog/consento-brings-data-security-to-remo
 
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/external/unsplash/markuswinkler_gLdJnQFcIXE_cut.jpg" style={{ float: 'left', width: '100%' }} alt="Sharing confidential files with suppliers means losing control and making others responsible for your data." />
+  <img src="/img/external/unsplash/markuswinkler_gLdJnQFcIXE_cut.jpg" style={{ width: '100%' }} alt="Sharing confidential files with suppliers means losing control and making others responsible for your data." />
 </figure>
 
 Most of companies relie on the services of external contractors or suppliers, for translation work, transcription, accounting, legal work, etc. Building a trustworthy partnership often starts with complex NDA. And it is there to stay; the partnership is hard to evolve or update. 
@@ -60,7 +60,7 @@ Read more on [how Consento can help](/blog/consento-makes-file-transfer-safe).
 ## Usecase #1 - For the Bitcoin millionnaires who fear losing their wallet key.
 
 <figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/external/unsplash/davidshares_4_41-79dHvE_cut.jpg" style={{ float: 'left', width: '100%' }} alt="Crypto technologies make end-users the single point of failure." />
+  <img src="/img/external/unsplash/davidshares_4_41-79dHvE_cut.jpg" style={{ width: '100%' }} alt="Crypto technologies make end-users the single point of failure." />
 </figure>
 
 Have you heard how many bitcoin users would have become millionaires, only if they hadn't lost theit password? 

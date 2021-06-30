@@ -25,11 +25,11 @@ module.exports = {
           items: [
             {
               label: 'Team',
-              href: 'team',
+              href: '/team',
             },
             {
               label: 'Supporters',
-              href: 'supporters',
+              href: '/supporters',
             },
             {
               label: 'Github',

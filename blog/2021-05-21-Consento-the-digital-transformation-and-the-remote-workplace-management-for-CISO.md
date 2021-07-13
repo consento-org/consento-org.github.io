@@ -23,7 +23,7 @@ import { License, Image } from '../src/theme/consento'
 As we <a href="/blog/Consento-and-the-remote-workplace-during-the-Cyber-Pandemic">recently shared</a>, the recent move to work remotely came with a drastic increase in organisations' security threats. And our <a href="/blog/CISO-Interview-3-Common-Problems-in-Cyber-Security-Today">interviews with CISOs</a> gave us better idea how it feels to be on the front line.
 
 
-### Expectations of velocity v/s tested security.  
+### Expectations of velocity versus tested security.  
 
 The rapid transition to work from home (#WFH) has fast paced the ongoing digital transformation (DX) of organisations of all sizes. The apparent results may give the impression that radical changes toward digital practices can be taken in a very short time. CEOs now expect the same velocity as the "new normal" for digital transformation settles. However, a transformation that is healthy and secure in the long term requires time and patience to assess security, user behaviors and changes in security measures on the long run. 
 

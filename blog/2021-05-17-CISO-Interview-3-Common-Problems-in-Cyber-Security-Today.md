@@ -1,7 +1,7 @@
 ---
 slug: CISO-Interview-3-Common-Problems-in-Cyber-Security-Today
 title: "CISOs Interview: 3 Common Problems in Cyber Security Today"
-author: Yuko Fujizawa
+author: Yuko Fujisawa
 author_url: /team/yuko
 author_image_url: /img/tanja/cc-by-nc-nd/team/Yuko.svg
 ---

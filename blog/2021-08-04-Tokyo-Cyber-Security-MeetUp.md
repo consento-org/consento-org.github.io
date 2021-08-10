@@ -1,6 +1,6 @@
 ---
 slug: Tokyo-Cyber-Security
-title: "Tokyo Cyber Security"
+title: "We are in Tokyo Cyber Security Meetup!"
 author: Yuko Fujisawa
 author_url: /team/yuko
 author_image_url: /img/tanja/cc-by-nc-nd/team/Yuko.svg

@@ -11,9 +11,9 @@ import { License, Image } from '../src/theme/consento'
 ---
 
 <Image
-  src="/img/external/unsplash/this-is-the-sign-you-have-been-looking-for.png"
+  src="/img/external/fair-use/TCSM_LOGO.png"
   caption=""
-  alt="a neon sign stating 'this is the sign you have been looking for' (photo credit @austin.chan)"
+  alt="TOKYO CYBER SECURITY MEETUP' (photo credit @Tokyo Cyber Security Meetup)"
 />
 
 ---

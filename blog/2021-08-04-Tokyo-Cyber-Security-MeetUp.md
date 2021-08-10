@@ -18,137 +18,60 @@ import { License, Image } from '../src/theme/consento'
 
 ---
 
-## Great! Thanks to the rapid move to #WorkFromHome, your organisation embraced #DX. But wait. At what security costs?
+## Challenges in DX and Cyber Security in Japan - Consento joined the panel discussion at TCSM
 
-As we <a href="/blog/Consento-and-the-remote-workplace-during-the-Cyber-Pandemic">recently shared</a>, the recent move to work remotely came with a drastic increase in organisations' security threats. And our <a href="/blog/CISO-Interview-3-Common-Problems-in-Cyber-Security-Today">interviews with CISOs</a> gave us better idea how it feels to be on the front line.
+We are delighted to announce that we joined in <a href="https://www.linkedin.com/groups/13911635/">Tokyo Cyber Security Meetup (TCSM)</a> as a co-host for their monthly meetup where we will be having interesting guests from Japanese business scene to share their expertise in security. TCSM is one of the biggest cyber security meetups in Japan led by Gino Bautista and Thomas Glucksmann, and their commitment to give something back to the local community is tremendous that moved us as well as an international startup bridging between Japan and Europe.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K3_pqJ0jIaw" caption="Replay on Tokyo Cyber Security Meetup YouTube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In our first Japanese meetup, we welcomed Mr.Shunji Koyanagi from SANS Institute and Mr. Junichiro Nozaki from F5 Network. They gracefully shared their point of views on the current digital transformation demographic, and challenges that Japanese corporates are facing today. 
+
+Here are a few key take aways from the discussion;  
+
+- As a shared general view, Japan’ DX development is lagging behind other countries. However, the number of Agile development is perceived as higher than the average.
+- Many companies in Japan don't have CISO roles, and security is something that executives "hope" someone in the company get things done.
+- That's why the assessment criteria is vague, and person in charge of cyber security don't get promoted if they are actually "successful" in their job (I think we also talked about it before as one of the pains of CISO )
+- So SANS institute offers the training for companies to raise the awareness and restructure the criteria for cyber security.
+- Many security experts are struggling with finding the solution which is hard for hackers but easy for users.
 
 
-### Expectations of velocity versus tested security.  
+To sum up the whole discussion, we can break them down into 2 topics.
 
-The rapid transition to work from home (#WFH) has fast paced the ongoing digital transformation (DX) of organisations of all sizes. The apparent results may give the impression that radical changes toward digital practices can be taken in a very short time. CEOs now expect the same velocity as the "new normal" for digital transformation settles. However, a transformation that is healthy and secure in the long term requires time and patience to assess security, user behaviors and changes in security measures on the long run. 
+<Image
+  src="/img/external/fair-use/f5_1.png"
+  caption=""Agile development in Japan is higher than the world average. " by Keiichiro Noguchi ( F5 Network )"
+  alt="a statistic of digital transformation situation in Japan' (photo credit @Keiichiro Nozaki)"
+/>
 
-### Of course the CISO’s role is not only to tell the bad news.  
+- Cybersecurity talent problem
+Companies with CISO role generally have objective metrics to assess their achievement. However this is often lack in cooperates that don't value cyber security as a professional expertise.  Due to this reason, people are not attracted to be positioned in cyber security. On the other hand, there is a big market for training programs.
+- Security vs Usability
+Robustness of security and easy usability are 2 sides on the same coin. Security is all about daily habit, and it will not make sense if the users don't use the tools for its complicated UI/UX.
 
-CISOs acknowledge that their role inside organisations is often associated with telling about cyber threats, data breaches, missing security hygiene, and so on. This ‘bad cop’ figure makes it harder for CISOs to fulfill an important part of their job Indeed, the role of CISOs lies beyond requirement design for security technologies and protocols; it encompasses acting as a leader to onboard the workforce onto a collective digital security journey.
 
-### Digital tools (and practices) integration is pivotal, yet never achieved.
 
-It has become extremely demanding to find ways to integrate digital tools and practices across the organisation, at the office, on the field or at home, and beyond with the network of suppliers or partners. This task is a never ending task, dealing with the inherent multiplicity of each users' situations while reducing risks of mis-integration of the system.
+### How Consento works on Security vs Usability issue: The real Key is "Trust", not the Long Passwords 
 
+In cyber security world, we often hear that **"Human factor is the weakest link in chain"** as in human error is the most potential danger to break the system. No matter how beautiful security tool you have, people need to have the ability to handle it right. As is discussed in the event, that is why security training is very crucial today.
+
+ As a software company, we wanted to build a tool that have the warmth of human, and we rather prefer to state **"Human factors are the strongest link in chain"** that can enhance the security.
+
+Consento uses its unique authentication called "Human Factor Authentication" that requires trust from your trusted peers like friends, family, colleagues etc. On your mobile phone, you can add your "trustees" via QR code, and they act as your decentralized partial keys. 
+
+This Human Factor Authentication intends to foster the learning of trust rather than learning to manage long passwords. In Consento app, users are nudges to maintain their relations and a high level of security in their circle of devices by sending and receiving push notifications triggered by the users in the trusted circle. This sense of collaborative security gives a peace of mind with warmth of human. We don't have to do everything alone.
+
+Humans are the creature to forget things, and learning a long sequence of passwords on each different platform is unrealistic, especially in the era of cross-using multiple platforms. Our amazing UI/UX designer Marc posted a very important quote on trust.
+
+"We like the definition of trust as "a psychological state comprising the intention to accept vulnerability based on positive expectations of the intentions or behaviour of another"(Rousseau et al., 1998). Trust depends both on the individual abilities to trust and on the trustworthiness another is able to display.
+
+Said otherwise, trust is neither a cognitive process nor an innate human feature, it is both (Mújdricza, 2019). Studies have shown that trust is an a priori given human faculty, and therefore the possibility of trust is always present. But visual cues, human contexts and past experiences affect positively or negatively the level of trust. Trust happens to be 'learned' more than 'earned', and it requires a certain affective warmth for a start. <a href="https://consento.org/blog/in-consent-we-trust/"> (In consent we trust </a>- Consento )
+
+Trust is something to be learned, and what we want to create is not a software that just makes life easy. We want to create the software that makes people as people, and this is leading to our motto "Data privacy for humans by human." What we should learn as human is trust, not the long password. 
 ---
 
-## All in all, the digital transformation is a long on-going organisation project, transforming human factor threats into human factor liabilities.
-
-It requires leadership and coherence all the way long, **to integrate technological solutions *along with* human** (individual and collective) **behaviours**. The scope of CISO is set to expand. 
-
-One of most pressing issue CISOs face is still the use case of emails hacking. The distributed system requires [ message encryption ] + [ file exchange security ], regardless of the network used by users.
-
----
-
-### Consento provides 'human-centric MFA' + proper data encryption (ZeroTrust) + Security-as-a-network (collective security hygiene).
-
----
-
-<figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/tanja/cc-by-nc-sa/in-control/human-centric.png" style={{ float: 'left', width: '30%' }} />
-  <figcaption><strong>A multi-factor authentication for humans</strong> - Consento system is built passwordless and peer-to-peer, to make everyone aware of their role in colloboratively controlling data integrity and confidential accesses.</figcaption>
-</figure>
-<br/>
-
----
-
-<figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/tanja/cc-by-nc-sa/in-control/no-server-necessary.png" style={{ float: 'left', width: '30%' }} />
-  <figcaption><strong>Set up your custom multi-factor authentication hub</strong> - Consento is built on distributed technologies and do not rely on a central cloud service. Consento enables you to craft a service completely private to your organisation. The Consento team provides services to set it up and train your teams on-demand.</figcaption>
-</figure>
-<br/>
-
----
-
-
-### How it would work in your organisation
-
-
-<figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/consento/cc-by-nc-nd/Consento-one-to-one-key-disctribution.png" style={{ float: 'center', width: '100%' }} />
-</figure>
-
-**Distribute keys (digitally) easily across your organisation, in person or over a video chat.**
-
-- make sure who receives the key
-- integrate easily across the organisation 
-- own the system (no reliance on third parties)
-
-<br/>
-
---- 
-
-<figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/consento/cc-by-nc-nd/Consento-custom-MFA.png" style={{ float: 'center', width: '100%' }} />
-</figure>
-
-**Make security your way by encrypting data and editing security conditions for consent.**
-
-- create custom MFA
-- rely on password-less, SIM-less technologies
-- include biometric, location or other contextual identifiers
-
-<br/>
-
---- 
-
-<figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/consento/cc-by-nc-nd/Consento-sharing-secrets.png" style={{ float: 'center', width: '100%' }} />
-</figure>
-
-**Your collaborators encrypt data locally, share the encrypted archive, and always keep the key.**
-
-- create strong encryption easily
-- distribute the encrypted archive (regardless of the network) & always keep control of who can access
-- add/revoke who can request access to archive
-
-<br/>
-
---- 
-
-<figure className="kg-card kg-image-card kg-card-hascaption">
-  <img src="/img/consento/cc-by-nc-nd/Consento-collective-security.png" style={{ float: 'center', width: '100%' }} />
-</figure>
-
-**Your collaborators maintain a high security together.**
-
-- get guidance on how to keep security high
-- reward collaborators (and suppliers) for their security hygiene
-- nudge (or get nudged by) others in your network to nurture collective security hygiene
-- keep security policies up-to-date, by notifying any event in the network affecting the collective security.
-
-<br/>
-
-
----
-
-## Consento provides a human-centric MFA solution to ensure the proper encryption of confidential email and file exchanges. 
-
-### The Consento app is designed to:
-
-- **onboard all types of users** as soon as they have at least one device ;
-- enable them to **handle MFA, SIM-free, multi-device, biometric approval** ; 
-- onboard users **across organisation(s)** ;
-- and nudge them to **maintain a long-lasting digital security hygiene** as a collective.
-
-### To wrap up, with Consento now you can:
-
-- [x]  **delineate clear liabilities of all participants**: Consento splits the encryption keys into unique partial keys.
-- [x]  **rely on mobile devices, SIM-free**: distributed on the selected devices of the setup. 
-- [x]  **customise your MFA with biometric authentication, geolocation or other custom parameters**: Consento recomposes the secret through a Human-Factor Authentication. 
-- [x]  **benefit from a cost-effective integration**: Consento is made simple to integrate with your technical infrastructure and workforce practices.
-
----
-
-## Interested to know more about what our solution can do for your organisation? <a href="mailto:keepsafe@consento.org">Let's get in touch.</a>
-
+## Interested to know more about our human-centric solution? <a href="mailto:keepsafe@consento.org">Let's get in touch.</a>
 
 
 --- 
 
-<License author="marc" year="2021" license="CC-BY-NC-SA" />
+<License author="yuko" year="2021" license="CC-BY-NC-SA" />

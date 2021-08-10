@@ -39,8 +39,8 @@ To sum up the whole discussion, we can break them down into 2 topics.
 
 <Image
   src="/img/external/fair-use/f5_1.png"
-  caption=""Agile development in Japan is higher than the world average. " by Keiichiro Noguchi ( F5 Network )"
-  alt="a statistic of digital transformation situation in Japan' (photo credit @Keiichiro Nozaki)"
+  caption="Agile development in Japan is higher than the world average. - by Keiichiro Nozaki ( F5 Network )"
+  alt="a statistic of digital transformation situation in Japan (photo credit @Keiichiro Nozaki)"
 />
 
 - Cybersecurity talent problem

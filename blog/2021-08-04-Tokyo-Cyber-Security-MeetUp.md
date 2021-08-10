@@ -24,7 +24,7 @@ We are delighted to announce that we joined in [Tokyo Cyber Security Meetup (TCS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K3_pqJ0jIaw" caption="Replay on Tokyo Cyber Security Meetup YouTube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In our first Japanese meetup, we welcomed Mr.Shunji Koyanagi from SANS Institute and Mr. Junichiro Nozaki from F5 Network. They gracefully shared their point of views on the current digital transformation demographic, and challenges that Japanese corporates are facing today. 
+In our first Japanese meetup, we welcomed Mr.Shunji Koyanagi from SANS Institute and Mr. Keiichiro Nozaki from F5 Network. They gracefully shared their point of views on the current digital transformation demographic, and challenges that Japanese corporates are facing today. 
 
 Here are a few key take aways from the discussion;  
 

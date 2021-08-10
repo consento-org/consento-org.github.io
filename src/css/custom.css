@@ -312,7 +312,7 @@ h1, h2, h3, h4, h5 {
   align-items: flex-start;
 }
 .landing__image img {
-  max-width: 85%;
+  max-width: 50%;
 }
 .landing__image__full {
   width: 100%;

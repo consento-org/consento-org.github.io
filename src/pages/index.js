@@ -72,7 +72,7 @@ function Home() {
           <section className="landing__usecase">
             <div className="landing__text landing__text__full">
               <h2>Use cases</h2>
-              <p>Here is a short text to present the key use-cases on which the Consento team is actively working at the moment, developping the code, the screens and the partnerships.</p>
+              <p>These are some of the key use-cases on which the Consento team is actively working at the moment, developping the code, the screens and the partnerships.</p>
             </div> 
             <ul className="landing__usecase__list landing__values__list">
             <li>
@@ -108,7 +108,7 @@ function Home() {
                 <img className="kg-bookmark-icon" src="/img/external/unsplash/Owen-Beard-DK8jXx1B-1c-unsplash-CUT.jpg" style={{ float: 'left', width: '100%' }} />
                 <div className="kg-bookmark-padding"> 
                   <div className="kg-bookmark-title">Medical data security across stakeholders</div>
-                  <div className="kg-bookmark-description">Medical data custodians bear the risks without having access to all data.</div>
+                  <div className="kg-bookmark-description">Medical data custodians are responsible to keep patients data safe and grant remote access when neccessary.</div>
                 </div>
               </div>
             </a>
@@ -121,7 +121,7 @@ function Home() {
                 <img className="kg-bookmark-icon" src="/img/external/unsplash/davidshares_4_41-79dHvE_cut.jpg" style={{ float: 'left', width: '100%' }} />
                 <div className="kg-bookmark-padding"> 
                   <div className="kg-bookmark-title">Securing crypto-wallet keys</div>
-                  <div className="kg-bookmark-description">For the Bitcoin millionnaires who fear losing their wallet key.</div>
+                  <div className="kg-bookmark-description">A safe and simple solution for the Bitcoin millionnaires who fear losing their wallet key.</div>
                 </div>
                 </div>
             </a>
@@ -143,8 +143,6 @@ function Home() {
                 <li><strong>"Shared-secrets"</strong> are quantum-proof.</li>
               </ul>
               <p>Now organizations can manage the access and sharing of confidential operations with a peace of mind. They remain in control of who has access, and they don’t bear the liability of data privacy alone.</p>
-
-              <a className="button__full" href="/download">Be the first to use it</a>
               <a className="button__full" target="_blank" href="https://twitter.com/consentoorg">Get notified about releases</a>
             </div>
           </section>
@@ -154,7 +152,6 @@ function Home() {
               <p>A lot of encryption, and a bit of Shamir’s secret.</p>
               <p>All of our code and all designs are open source. You can have a look at the inner workings right now!</p>
               <a className="button__full" href="https://github.com/consento-org">Source Code</a>
-              <a className="button__full" href="https://discord.gg/BAPxpGjgXH">Chat Channel</a>
             </div>
             <div className="landing__code">
               <CodeBlock className="language-typescript">

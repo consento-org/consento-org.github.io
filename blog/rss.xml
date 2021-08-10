@@ -4,9 +4,16 @@
         <title>Consento Blog</title>
         <link>https://consento.org/blog</link>
         <description>Consento Blog</description>
-        <lastBuildDate>Fri, 21 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tokyo Cyber Security]]></title>
+            <link>https://consento.org/blog/Tokyo-Cyber-Security</link>
+            <guid>Tokyo-Cyber-Security</guid>
+            <pubDate>Wed, 04 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+        </item>
         <item>
             <title><![CDATA[Shifting to remote working propelled the digital transformation. At what security costs?]]></title>
             <link>https://consento.org/blog/Consento-the-digital-transformation-and-the-remote-workplace-management-for-CISO</link>
